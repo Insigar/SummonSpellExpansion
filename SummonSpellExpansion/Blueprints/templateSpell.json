@@ -1,0 +1,28 @@
+{
+  "SpellName": "Template_Spell",
+  "SpellGuid": "665954659786434db90155d1150be1cb",
+  "DisplayName": "SummonCityGuardSpirit_1.Name",
+  "Description": "CityGuardSpirit.Description",
+  "Icon": "2754c538247045839aed5f346f867e33",
+  "SpawnUnit": "96c5dc0b4f014aefa916f23ed3c1c461",
+  "SummonPool": "",
+  "UnitFX": [
+    "141c1f7a6031423d80c27869d9c76b76"
+  ],
+  "DiceValue": {
+    "DiceType": "Zero",
+    "DiceCountValue": 0,
+    "BonusValue": 1
+  },
+  "DurationValue": {
+    "Rate": "Minutes",
+    "DiceType": "Zero",
+    "DiceCountValue": 0,
+    "ScaleWithLevel": true
+  },
+  "Parent": null,
+  "AbilityVariants": [],
+  "SpellLevel": 1,
+  "SpellSchool": "Conjuration"
+}
+

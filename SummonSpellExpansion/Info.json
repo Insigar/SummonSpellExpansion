@@ -1,0 +1,10 @@
+﻿{
+  "Id": "SummonSpellExpansion",
+  "DisplayName": "Summon Spell Expansion",
+  "Author": "Insigar",
+  "Version": "1.3.7",
+  "ManagerVersion": "0.24.0",
+  "Requirements": [],
+  "AssemblyName": "SummonSpellExpansion.dll",
+  "EntryMethod": "SummonSpellExpansion.Main.Load"
+}

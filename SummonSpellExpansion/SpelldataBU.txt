@@ -1,0 +1,25 @@
+﻿//SpellData spellData = new SpellData
+//{
+//	SpellName = "Summon_CR27_Latimas_BlackDragon",
+//	SpellGuid = "33ba39aba3a945359a546b93cc53aa29",
+//	SpellLevel = 0,
+//	SpellSchool = Kingmaker.Blueprints.Classes.Spells.SpellSchool.Conjuration,
+//	DisplayName = "SummonLatimas_BlackDragon.Name",
+//	Description = "SummonDragon.Description",
+//	Icon = "cbacca49ab2a46519f1a15e58b266069",
+//	SpawnUnit = (ResourcesLibrary.TryGetBlueprint<BlueprintUnit>("cbacca49ab2a46519f1a15e58b266069").ToReference<BlueprintUnitReference>()),
+//	DiceValue = new DiceValue
+//	{
+//		DiceType = Kingmaker.RuleSystem.DiceType.Zero,
+//		DiceCountValue = 0,
+//		BonusValue = 1,
+//	},
+//	DurationValue = new DurationValue
+//	{
+//		Rate = Kingmaker.UnitLogic.Mechanics.DurationRate.Minutes,
+//		DiceType = Kingmaker.RuleSystem.DiceType.Zero,
+//		DiceCountValue = 0,
+//		ScaleWithLevel = false,
+//	}
+//};
+//SpellData.SaveSpellData("Summon_CR27_Latimas_BlackDragon", SpellData);

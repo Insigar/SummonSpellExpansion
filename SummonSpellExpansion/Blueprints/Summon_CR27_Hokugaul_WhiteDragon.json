@@ -1,0 +1,31 @@
+{
+  "SpellName": "Summon_CR27_Hokugaul_WhiteDragon",
+  "SpellGuid": "099ab133181a4b0e8a67d16c2fedc82e",
+  "DisplayName": "SummonHokugaul_WhiteDragon.Name",
+  "Description": "SummonDragon.Description",
+  "Icon": "2f76aadc11a04e07a1ca61763f23bffd",
+  "SpawnUnit": "2f76aadc11a04e07a1ca61763f23bffd",
+  "SummonPool": "",
+  "UnitFX": [],
+  "DiceValue": {
+    "DiceType": "Zero",
+    "DiceCountValue": 0,
+    "BonusValue": {
+      "ValueType": "Simple",
+      "Value": 1
+    }
+  },
+  "DurationValue": {
+    "Rate": "Minutes",
+    "DiceType": "Zero",
+    "DiceCountValue": 0,
+    "BonusValue": {
+      "ValueType": "Simple",
+      "Value": 1
+    }
+  },
+  "Parent": "",
+  "AbilityVariants": [],
+  "SpellLevel": 1,
+  "SpellSchool": "Conjuration"
+}

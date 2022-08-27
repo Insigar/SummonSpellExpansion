@@ -1,0 +1,31 @@
+{
+  "SpellName": "Summon_CR21_Devarra_BlackDragon",
+  "SpellGuid": "c75179857d9a4bee859d776411d30e9f",
+  "DisplayName": "SummonDevarra_BlackDragon.Name",
+  "Description": "SummonDragon.Description",
+  "Icon": "62e5d8acf2dd408b9cbd27d7083c92b0",
+  "SpawnUnit": "62e5d8acf2dd408b9cbd27d7083c92b0",
+  "SummonPool": "",
+  "UnitFX": [],
+  "DiceValue": {
+    "DiceType": "Zero",
+    "DiceCountValue": 0,
+    "BonusValue": {
+      "ValueType": "Simple",
+      "Value": 1
+    }
+  },
+  "DurationValue": {
+    "Rate": "Minutes",
+    "DiceType": "Zero",
+    "DiceCountValue": 0,
+    "BonusValue": {
+      "ValueType": "Simple",
+      "Value": 1
+    }
+  },
+  "Parent": "",
+  "AbilityVariants": [],
+  "SpellLevel": 1,
+  "SpellSchool": "Conjuration"
+}

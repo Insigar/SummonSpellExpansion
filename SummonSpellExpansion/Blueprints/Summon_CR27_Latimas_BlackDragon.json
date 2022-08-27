@@ -1,0 +1,31 @@
+{
+  "SpellName": "Summon_CR27_Latimas_BlackDragon",
+  "SpellGuid": "bf64c3e95adb4001b2a5ffc0023bceaa",
+  "DisplayName": "SummonLatimas_BlackDragon.Name",
+  "Description": "SummonDragon.Description",
+  "Icon": "cbacca49ab2a46519f1a15e58b266069",
+  "SpawnUnit": "cbacca49ab2a46519f1a15e58b266069",
+  "SummonPool": "",
+  "UnitFX": [],
+  "DiceValue": {
+    "DiceType": "Zero",
+    "DiceCountValue": 0,
+    "BonusValue": {
+      "ValueType": "Simple",
+      "Value": 1
+    }
+  },
+  "DurationValue": {
+    "Rate": "Minutes",
+    "DiceType": "Zero",
+    "DiceCountValue": 0,
+    "BonusValue": {
+      "ValueType": "Simple",
+      "Value": 1
+    }
+  },
+  "Parent": "",
+  "AbilityVariants": [],
+  "SpellLevel": 1,
+  "SpellSchool": "Conjuration"
+}

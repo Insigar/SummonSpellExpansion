@@ -1,0 +1,1882 @@
+[
+  {
+    "FXName": "Object_FadeOut_FX",
+    "OldGuid": "1f7d6aa1720e9004d96859cc66340ab9",
+    "NewGuid": "cd0007ced53f44cab94534942e74345c"
+  },
+  {
+    "FXName": "Mythic1lvlDemon_BlindVictim00_FX",
+    "OldGuid": "43981a02863a5d34b9e1448d32000fd7",
+    "NewGuid": "b120b1100ee6408ba21b3e7b0d117fa0"
+  },
+  {
+    "FXName": "Common_FireBuff00_FX",
+    "OldGuid": "55ed3454d637b074e829ae664452a412",
+    "NewGuid": "ddce2f6dcb9a44fe87e31f711b07c8be"
+  },
+  {
+    "FXName": "Common_ColdBuff00_FX",
+    "OldGuid": "0f278683e67dd09418c78a2c3ad3dfa5",
+    "NewGuid": "2027e9bee48c4133a20d40ff042ed4ef"
+  },
+  {
+    "FXName": "Anarchic00_Alignment_FX",
+    "OldGuid": "886c7407dc629dc499b9f1465ff382df",
+    "NewGuid": "64a470d2b8204893ba04263930671c28"
+  },
+  {
+    "FXName": "DestructiveSmite00_FX",
+    "OldGuid": "0da594463da249b9bd88bd7caeeae4ea",
+    "NewGuid": "96bf8972b6e4495394d14f5b21119e94"
+  },
+  {
+    "FXName": "Daze00_Cycle_FX",
+    "OldGuid": "d2e35b870e4ac574d9873b36402487e5",
+    "NewGuid": "badbc6b04f494b0a884da5ca6150614c"
+  },
+  {
+    "FXName": "HoldPerson00_FX",
+    "OldGuid": "2316ca20f1ecf664889caf818b87efbf",
+    "NewGuid": "54ea763323494d94941a57d0b221b9b8"
+  },
+  {
+    "FXName": "Object_FadeIn_FX",
+    "OldGuid": "9c9da5cde5e7e5b488c7d48e86b1d99f",
+    "NewGuid": "b5ce8154bae2477eb1de05bc6d21a373"
+  },
+  {
+    "FXName": "FearFrightened00_FX",
+    "OldGuid": "f08a7239aa961f34c8301518e71d4cdf",
+    "NewGuid": "d3f87260fec84b8d9efcc59f804be4f7"
+  },
+  {
+    "FXName": "GhostForm00_Cycle_FromCutout_VfxSfx_Composite_FX",
+    "OldGuid": "20f79fea035330b479fc899fa201d232",
+    "NewGuid": "ab961acf21aa4f9eba302aa1983c4f7f"
+  },
+  {
+    "FXName": "GhostFormGreen00_Cycle_FX",
+    "OldGuid": "8bcfb10ecef16f2408b51afebc61bd91",
+    "NewGuid": "80e1f7c8fce4497998e2296e4c48b7a2"
+  },
+  {
+    "FXName": "Haste00_Trail_FX",
+    "OldGuid": "8d20b0a6129bd814eb0146041879f38a",
+    "NewGuid": "23052e4857c741ecb2ca6f74bd295823"
+  },
+  {
+    "FXName": "Poison00_Hit_FX",
+    "OldGuid": "becaeeff91d94a1b8862e3a46a4b26ab",
+    "NewGuid": "a6f804950f5d4f3eb95d842d23523143"
+  },
+  {
+    "FXName": "Fx_Nabasu00_FX",
+    "OldGuid": "283e975703b433742a47cecddecb974f",
+    "NewGuid": "000caec0394b4238ba52734f4f423df9"
+  },
+  {
+    "FXName": "Mythic9lvlTrickster_HogOfDesolation00_Buff_FX",
+    "OldGuid": "6cde5e5862dc4cf3b15c0a7594edbab8",
+    "NewGuid": "6872a15ae49e41e6a74acc11e094d6d7"
+  },
+  {
+    "FXName": "SummonNature'sAlly00_Cycle_FX",
+    "OldGuid": "e4b996b5168fe284ab3141a91895d7ea",
+    "NewGuid": "1f7755b6e8bc4a3abb25a0983b45843f"
+  },
+  {
+    "FXName": "Nauseated00_FX",
+    "OldGuid": "956331dba5125ef48afe41875a00ca0e",
+    "NewGuid": "dd0a7442f11f4898bb5a95ee29f5551a"
+  },
+  {
+    "FXName": "RebornDustCreature00_Cycle_FX",
+    "OldGuid": "2de1e36c10696204da8ad80b9cc79dd8",
+    "NewGuid": "8a16c0978dbd4413b5708ae2e4a31203"
+  },
+  {
+    "FXName": "GhostFormDark00_Cycle_FromCutout_FX",
+    "OldGuid": "8caafe9dc0ff21041b36ad225569d164",
+    "NewGuid": "6e1c6762bed74ae1aa4da7cbbc40a031"
+  },
+  {
+    "FXName": "FearShaken00_FX",
+    "OldGuid": "25ec6cb6ab1845c48a95f9c20b034220",
+    "NewGuid": "1148d7cf98cd41ee93572a837c60667d"
+  },
+  {
+    "FXName": "Sickened00_FX",
+    "OldGuid": "4e42460798665fd4cb9173ffa7ada323",
+    "NewGuid": "a0a21e71dc3840d58c0a6d88f369a313"
+  },
+  {
+    "FXName": "Slow00_Cycle_FX",
+    "OldGuid": "488e53ede2802ff4da9372c6a494fb66",
+    "NewGuid": "b3edd8cd87924f40810837921233ce18"
+  },
+  {
+    "FXName": "SpectreForm00_Cycle_FX",
+    "OldGuid": "3e65dc2237392ab4383fefd54fefc70d",
+    "NewGuid": "49271e525f2e489e9061ebdd745e854c"
+  },
+  {
+    "FXName": "CommonStun00_Cycle_FX",
+    "OldGuid": "09d39b38bb7c6014394b6daced9bacd3",
+    "NewGuid": "91ad5a8a421c48029029ed16fb28cc0f"
+  },
+  {
+    "FXName": "SummonNature'sAllyI-III_00_FX",
+    "OldGuid": "2c3b98e56c1b4e9479f692d7ef95b2d2",
+    "NewGuid": "de63b62013e1467f9cbcfe416d069441"
+  },
+  {
+    "FXName": "SummonNature'sAllyIV-VI_00_FX",
+    "OldGuid": "25629d7e78016a340b0e50818b6d8bb5",
+    "NewGuid": "301bb330c1194a87b6d6bebe911231b8"
+  },
+  {
+    "FXName": "SummonNature'sAllyVII-IX_00_FX",
+    "OldGuid": "932d27490e1701548a48b4cbc2f2caac",
+    "NewGuid": "46e2f181073d44039f843a3a5504d541"
+  },
+  {
+    "FXName": "SummonMonsterI-III_00_FX",
+    "OldGuid": "6fcdf014694b2b542a867763b4369cb3",
+    "NewGuid": "b5bc1cfe06a54a2d9b0fd936ac9a558e"
+  },
+  {
+    "FXName": "SummonMonsterIV-VI_00_FX",
+    "OldGuid": "50d51854cf6a3434d96a87d050e1d09a",
+    "NewGuid": "5181fbdb7dad4f1990b5ed71d6851578"
+  },
+  {
+    "FXName": "SummonMonsterVII-IX_00_FX",
+    "OldGuid": "0dff842f06edace43baf8a2f44207045",
+    "NewGuid": "6e281f598c964f5b833bc553faa472c3"
+  },
+  {
+    "FXName": "SummonMonster00_Cycle_FX",
+    "OldGuid": "706c182e86d9be848b59ddccca73d13e",
+    "NewGuid": "2368f96c090a4305a49721addebb0f6c"
+  },
+  {
+    "FXName": "DoombringerCreature00_Violet_FX",
+    "OldGuid": "dd704850ff30c73448f6efcf51845c0f",
+    "NewGuid": "13d312f52ac84c24a526b5a2d7bed6bd"
+  },
+  {
+    "FXName": "GlueBuff00_FX",
+    "OldGuid": "3642547f895815f4786b7f2ac716e03e",
+    "NewGuid": "26ccfa572e2f4d2e87d0b8252a808391"
+  },
+  {
+    "FXName": "ST_WingsAngelic_Angelic_U_Any_FX",
+    "OldGuid": "25699a90ed3299e438b6fd5548930809",
+    "NewGuid": "3ac32b6f821f47cd83ca9463d22be9f7"
+  },
+  {
+    "FXName": "ST_WingsAngelic_AngelicBlack_U_Any_FX",
+    "OldGuid": "a19cda073f4c2b64ca1f8bf8fe285ece",
+    "NewGuid": "03b84721a52a471cadcd3bcaf2437635"
+  },
+  {
+    "FXName": "ST_WingsDiabolic_Diabolic_U_Any_FX",
+    "OldGuid": "4113178a8d5bf4841b8f15b1b39e004f",
+    "NewGuid": "b76175e2163e45d09639e76462ab37a1"
+  },
+  {
+    "FXName": "ST_WingsMovanicDeva_MovanicDeva_U_Any_FX",
+    "OldGuid": "775df52784e1d454cba0da8df5f4f59a",
+    "NewGuid": "7db34e918b854da5805da1330f379e0e"
+  },
+  {
+    "FXName": "Fx_Xantir00_FX",
+    "OldGuid": "4f2eb5ae05254f4e81b07c667f94e1d8",
+    "NewGuid": "a49873d70af0498bb9cfda5fc1119487"
+  },
+  {
+    "FXName": "Invisibility00_FX",
+    "OldGuid": "94b2838e8a492c44ebf89e7fe7a75a62",
+    "NewGuid": "f5593f66095a46ffadac724caff035d2"
+  },
+  {
+    "FXName": "ProtectionFromArrows00_FX",
+    "OldGuid": "9fd1fe91c717449796bd68646ee8df18",
+    "NewGuid": "e6a1cd3bb8d44396b40ffdcc935b8e61"
+  },
+  {
+    "FXName": "CommonAbjurationBuff00_FX",
+    "OldGuid": "30e1b8151b24446d84769fb807654930",
+    "NewGuid": "ddeba640508042dd8d9ef7c1352e84e6"
+  },
+  {
+    "FXName": "Mythic4lvlLich_SiphonTimeSlow00_FX",
+    "OldGuid": "f24377c94b8b4a9fad8feb0fc60b0dfc",
+    "NewGuid": "04999a908135487fb826a8e2b97dbe13"
+  },
+  {
+    "FXName": "RayOfEnfeeblement00_Hit_FX",
+    "OldGuid": "92ee671e369e486ebc48de8af20302cf",
+    "NewGuid": "3342722a73d94211880ed0f559cd5e4f"
+  },
+  {
+    "FXName": "PoisonHit_FX",
+    "OldGuid": "87b5bedb0f1ef7543bfb8fd90115ec1a",
+    "NewGuid": "567e861da19c482c8662b356ab59778f"
+  },
+  {
+    "FXName": "CommonEvocationBuff00_FX",
+    "OldGuid": "6f012f0c5a3043429b7cec23794d9561",
+    "NewGuid": "a3a7acd3cd0c492488a599e462f2171f"
+  },
+  {
+    "FXName": "CommonDevinationBuff00_FX",
+    "OldGuid": "b6ed903dae4240debe771dc674d2e96f",
+    "NewGuid": "6e41ae72aa74467aa421eae7d563f4df"
+  },
+  {
+    "FXName": "DeathCurse00_FX",
+    "OldGuid": "9fe0fdf27e2845a09e41e2f0e8e43c50",
+    "NewGuid": "4af7d3b370a54c9d8bb916b1f640d04f"
+  },
+  {
+    "FXName": "StoneSkin00_Buff_FX",
+    "OldGuid": "811ef4d4a1984603bc4e86f1d467d977",
+    "NewGuid": "268ae91153654b1fbb0b45c784b506df"
+  },
+  {
+    "FXName": "Mythic4lvlDemon_BloodHaze00_Cast_FX",
+    "OldGuid": "c6d44dc0d8c341748486ae8246cd1b59",
+    "NewGuid": "16aa41761b4a45fd98c5336ed3cca275"
+  },
+  {
+    "FXName": "CommonTransmutationBuff00_FX",
+    "OldGuid": "cdd385953253408db0d520e55d281767",
+    "NewGuid": "8eb87b2ca1d9428f9d76bbce49242cd1"
+  },
+  {
+    "FXName": "EverbloomFlower_Burning00_FX",
+    "OldGuid": "fd8a8041a5de4810a4e11eab4e054fb7",
+    "NewGuid": "9ef960e807174a82b4572003552c2eb2"
+  },
+  {
+    "FXName": "Holy00_CritHitSnap_Good_FX",
+    "OldGuid": "7fece73953064a3cb0085979f5f349d2",
+    "NewGuid": "041ffa26550f41ae8705c4b56f4fb3fd"
+  },
+  {
+    "FXName": "Holy00_CritHitSnap_FX",
+    "OldGuid": "7c2b00088ac3476e949518d0b8a78526",
+    "NewGuid": "a7e86fb3d3f148f3bdb6351910a970e3"
+  },
+  {
+    "FXName": "Daze00_FX",
+    "OldGuid": "1da4d884ccac4c1a89465ea8ad48c7e4",
+    "NewGuid": "b05fd74be4a94dd9a478d7ab2332221d"
+  },
+  {
+    "FXName": "Fx_LocustSwarm00_FX",
+    "OldGuid": "ed01c877a16c417085a5809e2635d59a",
+    "NewGuid": "8577bd7d7a4a4913a7a4b676952cb031"
+  },
+  {
+    "FXName": "RayOfEnfeeblement00_FX",
+    "OldGuid": "ee923532b01e475593777e6f0cdd144f",
+    "NewGuid": "4c82723439614cba914c33fb1dc658e5"
+  },
+  {
+    "FXName": "CreatureDungeon_Disease00_FX",
+    "OldGuid": "59d6002c5f660024b8e0ed878e4112d9",
+    "NewGuid": "f01f3a54b7a64c45b3d41fdadc1fd6eb"
+  },
+  {
+    "FXName": "DimensionDoor00_CasterBuff_FX",
+    "OldGuid": "c104ea7bb39e422fbc1d6ead61b63525",
+    "NewGuid": "8409cdbba01c43d0bf7d7ed114983a2e"
+  },
+  {
+    "FXName": "Displacement00_FX",
+    "OldGuid": "693bbc8b532a4c5d9995c52b19d6c575",
+    "NewGuid": "f0669f5c291440e0bc057e715a79cedc"
+  },
+  {
+    "FXName": "DweomerCreature00_Enchantment_FX",
+    "OldGuid": "2ab491a0101344bc8ad3e62ba6a6dac6",
+    "NewGuid": "8b6333cb201f456da8035d7b5213d233"
+  },
+  {
+    "FXName": "GoodHope00_FX",
+    "OldGuid": "f8f3a47af00c4858adc96b82cb3f6095",
+    "NewGuid": "53e08b923fc74f2291e301eafaa7b687"
+  },
+  {
+    "FXName": "Slow00_FX",
+    "OldGuid": "9856455edf98454b9df7b2b97c2447ed",
+    "NewGuid": "42a51b82a148429d95a96b5ffb729478"
+  },
+  {
+    "FXName": "Mythic8lvlDragon_MythicRoar00_FX",
+    "OldGuid": "8ecffb3914d3447ca7061d524db46ce7",
+    "NewGuid": "ab711daf3eee4d89a776f536908e1a02"
+  },
+  {
+    "FXName": "Enervation00_Hit_FX",
+    "OldGuid": "3ffc1a35ede944c2bbb1721c7bc9c71b",
+    "NewGuid": "9e421ce6ce294455a6046fc4f8ca85a1"
+  },
+  {
+    "FXName": "Vinetrap00_FX",
+    "OldGuid": "e80b6994f69e4293a526155d896c312c",
+    "NewGuid": "11d2ebf755674b359b113c027f17dac0"
+  },
+  {
+    "FXName": "RayOfFrost00_Hit_FX",
+    "OldGuid": "b5f539e662054cce91be808556c0410f",
+    "NewGuid": "069cfc6d53624de6857d930759cda66d"
+  },
+  {
+    "FXName": "StunningBarrier00_Explosion_FX",
+    "OldGuid": "899a07595d3a49848ceec0eaa2370150",
+    "NewGuid": "9181c9b7fef6490d922864b52056639e"
+  },
+  {
+    "FXName": "Witch_CommonDebuff00_FX",
+    "OldGuid": "ffe9db4b783c461cb253f35ebeb2ef7f",
+    "NewGuid": "0246c68b620f4397b468e36a3fdd505e"
+  },
+  {
+    "FXName": "RaiseDead00_FX",
+    "OldGuid": "d38c10fef55d449eb48445a0fb28132d",
+    "NewGuid": "d2ec0afc65cf427c807a4e9bfcc22a93"
+  },
+  {
+    "FXName": "Haste00_FX",
+    "OldGuid": "4d9e9599ea864d9f86e7184523fe981f",
+    "NewGuid": "055f678060c0445e9f7eb143317f7de5"
+  },
+  {
+    "FXName": "Bless00_FX",
+    "OldGuid": "1b3ff42ecd8149aca8b725feac43cb93",
+    "NewGuid": "c934e73af9cf4122ac87480d621702f7"
+  },
+  {
+    "FXName": "Bane00_FX",
+    "OldGuid": "033118c16b9945b095352f2b809b06fe",
+    "NewGuid": "d92a857f958f4b77a70fdb564bda2181"
+  },
+  {
+    "FXName": "Frost_00_WeaponBuff_FX",
+    "OldGuid": "82bae4552cc744e3ac76ba872f85b34f",
+    "NewGuid": "0b7da36f9a8641669de2ff166cd31b8d"
+  },
+  {
+    "FXName": "Water00_CritHitSnap_FX",
+    "OldGuid": "3f1354f2c75d48e8857c7c3f4010975f",
+    "NewGuid": "089d0828376d438f86b60e6430c09b85"
+  },
+  {
+    "FXName": "Corrosive00_WeaponBuff_FX",
+    "OldGuid": "4cd27b1262144e6ea0c639231e1b1a7f",
+    "NewGuid": "ee2fc619a2be41cbb82217925f22722c"
+  },
+  {
+    "FXName": "Acid00_CritHitSnap_FX",
+    "OldGuid": "a1307179023d492ab9aa476b1c43392a",
+    "NewGuid": "92ff9a4aa66f4b65ab84c55374f2857d"
+  },
+  {
+    "FXName": "Flaming00_WeaponBuff_FX",
+    "OldGuid": "944fcfce863148c795fdfb22e185ef11",
+    "NewGuid": "d4bb19a69209499fb47dd132d4d81265"
+  },
+  {
+    "FXName": "Fire00_CritHitSnap_FX",
+    "OldGuid": "080c22eca6e54257a20ba178c3c76164",
+    "NewGuid": "1dbb1244970f42ac8cab19358c123e63"
+  },
+  {
+    "FXName": "Anarchic00_WeaponBuff_FX",
+    "OldGuid": "f165277b842c4211947ebfaba6c02782",
+    "NewGuid": "b8c82a7d9c4a4b978219333e96516208"
+  },
+  {
+    "FXName": "Holy00_Alignment_FX",
+    "OldGuid": "364feecb8f314982bc3088093d9ce169",
+    "NewGuid": "ee02e41b133b42e496e67a4b2d2ab161"
+  },
+  {
+    "FXName": "Prayer_Buff00_FX",
+    "OldGuid": "205fa47871a44efeb5521054e2f4c64d",
+    "NewGuid": "5925cd1f8e884b4eb3b0af7c6a02ca66"
+  },
+  {
+    "FXName": "ProtectionFromGood00_FX",
+    "OldGuid": "1022a93825654e8abb4a4e8ad3586ebb",
+    "NewGuid": "2f9a161963ca4d7ea59c96f4041ca643"
+  },
+  {
+    "FXName": "Web00_Grappled_CrusadeVersion_FX",
+    "OldGuid": "301a24cb14374946be8b057dd211d066",
+    "NewGuid": "409891138a144c28a97cc7e839c29e0c"
+  },
+  {
+    "FXName": "CommonNecromancyBuff00_FX",
+    "OldGuid": "51d9198cd8f2479d9143b6ba24bf2733",
+    "NewGuid": "845356a50d7744afb2172ef83a2ba337"
+  },
+  {
+    "FXName": "Slumber00_Cycle_FX",
+    "OldGuid": "bdbffca1dfaa438eb1b542cf895b5552",
+    "NewGuid": "4b9155a0f7724111bbabc5a1917bd855"
+  },
+  {
+    "FXName": "Web00_Grappled_FX",
+    "OldGuid": "445797808a79be84cb466f71da6f1366",
+    "NewGuid": "5b0e618bfe3345afb10f2f76e18dceae"
+  },
+  {
+    "FXName": "CommonEnchantmentBuff00_FX",
+    "OldGuid": "c59565c8547044da84d9a28440fd88da",
+    "NewGuid": "47b9effbb1594542981f79337fef60d7"
+  },
+  {
+    "FXName": "Rage00_Cycle_FX",
+    "OldGuid": "819fef7b69395654c8e49f3e53ded9d7",
+    "NewGuid": "c794914d7cc74600bb1564bf331a9dd3"
+  },
+  {
+    "FXName": "FalseLife00_FX",
+    "OldGuid": "46f19cc5366e46a49a64082f8365c248",
+    "NewGuid": "cf1fc6138f024fd8a72294e57366896c"
+  },
+  {
+    "FXName": "Bear'sEndurance00_FX",
+    "OldGuid": "f307f19bc3432064e90b01de05b69e8d",
+    "NewGuid": "1150b6c8630440c583b6d794637dc4cd"
+  },
+  {
+    "FXName": "ShieldOfFaith00_FX",
+    "OldGuid": "239f23d04cb94495ac2c7186203993ac",
+    "NewGuid": "3745847cbb294083b56a8ff0ee5eae3f"
+  },
+  {
+    "FXName": "Prayer_Debuff00_FX",
+    "OldGuid": "202bc08f87a72054a92bb7f07a23d94a",
+    "NewGuid": "9d9e0e1aae6d44408d18f57c461774b0"
+  },
+  {
+    "FXName": "Fx_AzataVeranallia00_FX",
+    "OldGuid": "ba64d2d3d30e4796baeea386ba69db0b",
+    "NewGuid": "4c2af9396fa84e27a4c4f7cb33ba75f4"
+  },
+  {
+    "FXName": "DweomerCreature00_Evocation_FX",
+    "OldGuid": "99a0f68d736d4286b33ca8131379dc6b",
+    "NewGuid": "c6984eda6b324426801a07fdde1026c1"
+  },
+  {
+    "FXName": "ArcanistReservoir00_FX",
+    "OldGuid": "33e0c3a2a54c0e7489fa4ec4d79a581b",
+    "NewGuid": "b2183e1d8759420f8e176db8ca8e2248"
+  },
+  {
+    "FXName": "Fatigue00_FX",
+    "OldGuid": "72f220934a933eb40a61b37fe8751286",
+    "NewGuid": "4b76bdc7a330435aadc569824858bf29"
+  },
+  {
+    "FXName": "Challenge00_FX",
+    "OldGuid": "4f0218323ad379248b69de8a9501159f",
+    "NewGuid": "8710b3f0204c48dfae35ace2295721b6"
+  },
+  {
+    "FXName": "SmiteEvil00_Debuff_FX",
+    "OldGuid": "161051816b1530843a8096167be9b8a7",
+    "NewGuid": "dc43dad654e4490eb50564bd150050b9"
+  },
+  {
+    "FXName": "ExpeditiousRetreat00_Trail_FX",
+    "OldGuid": "ca8acaf34d2bb144cb1c572e3b7ca0fa",
+    "NewGuid": "59ebdc7fb18c45c68701aaf86e6333e5"
+  },
+  {
+    "FXName": "Command00_FX",
+    "OldGuid": "45548967b714e254aa83f23354f174b0",
+    "NewGuid": "b392b95425b74ea7a9632519934b75e5"
+  },
+  {
+    "FXName": "MirrorImageRoot00_FX",
+    "OldGuid": "a6e5fd0f45730f34fa23f309e06078fa",
+    "NewGuid": "082269af8b1e4699861bb4c9e5406a89"
+  },
+  {
+    "FXName": "AirElemental00_Big_Cycle_FX",
+    "OldGuid": "5e339598ee8791743a3a6d13f1bc44da",
+    "NewGuid": "10be4c3ddd4e4bb9a11b61b19cb0755d"
+  },
+  {
+    "FXName": "AirElemental00_Medium_Cycle_FX",
+    "OldGuid": "3773b68102a30244d9887c97545cad9b",
+    "NewGuid": "d6988f2e8692404caf7f13be52bdc312"
+  },
+  {
+    "FXName": "AirElemental00_Small_Cycle_FX",
+    "OldGuid": "76290d024da6e644fb46fa75e655558c",
+    "NewGuid": "1a234e5d7f154ff894148d9d4f1aee9b"
+  },
+  {
+    "FXName": "Fx_Devourer00_FX",
+    "OldGuid": "ce0abc7aa5de7984ab823ba2a8cf0ad8",
+    "NewGuid": "cf66e09dee7d4062bbc206b7e83c333a"
+  },
+  {
+    "FXName": "Fx_Dweomercat00_FX",
+    "OldGuid": "79edf5bdcd03d38429d333ca69f242c0",
+    "NewGuid": "0034a13e18d94b96b1e631ef94acc877"
+  },
+  {
+    "FXName": "FX_EarthElemental00_Big_FX",
+    "OldGuid": "4594c33c9b946e84da89a560bff96a43",
+    "NewGuid": "0aaf3a72b3e64d36a986091e5717ada0"
+  },
+  {
+    "FXName": "FX_EarthElemental00_Small_FX",
+    "OldGuid": "c838a30820a4c59458a69eb890ba1436",
+    "NewGuid": "24d551c772e44cd89bc81652b075c815"
+  },
+  {
+    "FXName": "Fx_FireElemental00_Large_FX",
+    "OldGuid": "f36e0e6f50f241d40aecbbe145a7b436",
+    "NewGuid": "d38f04b14a9040c49bf58a8c4854da2c"
+  },
+  {
+    "FXName": "Fx_FireElemental01_Small_FX",
+    "OldGuid": "902f5811be09f4f48bba302a2adaca97",
+    "NewGuid": "04d01654ad5440559e27ccae73bc62c5"
+  },
+  {
+    "FXName": "Fx_FireElemental02_Big_FX",
+    "OldGuid": "c278186dd9e87f041aaed88509d812ca",
+    "NewGuid": "2de185ac4dbc4af09e42f8ae798b8004"
+  },
+  {
+    "FXName": "Fx_FrostGiant00_FX",
+    "OldGuid": "95908788aa16ad3469648cecab821b44",
+    "NewGuid": "73615755a03644e6a217d2f1e8400259"
+  },
+  {
+    "FXName": "Fx_HellHound00_FX",
+    "OldGuid": "6aeb24f1815e07b49ac22b04a7771aca",
+    "NewGuid": "2b6a2ada6f63499da926a0518ee47610"
+  },
+  {
+    "FXName": "Fx_LanternKing00_FX",
+    "OldGuid": "4c6fc98d31ba17d45a467a204e92dc81",
+    "NewGuid": "3bc5e08dc534490aa45677dc5c48a454"
+  },
+  {
+    "FXName": "FX_LivingArmor00_FX",
+    "OldGuid": "1b2003843ae869f4287f0cf3e21ab351",
+    "NewGuid": "7b4545f88c124011a579837b29ff9457"
+  },
+  {
+    "FXName": "Fx_Linnorm00_FX",
+    "OldGuid": "465fcf15015a78549b73713834e09365",
+    "NewGuid": "b3b8c9665e4b478c92aeb948b9a96e38"
+  },
+  {
+    "FXName": "FX_Medusa00_FX",
+    "OldGuid": "42eed29bdf90fb140aba2e450464338f",
+    "NewGuid": "b6134d50d3f24451b3576cb0701b8392"
+  },
+  {
+    "FXName": "FX_Medusa00_Boss_FX",
+    "OldGuid": "c06d6a1caedc7694ba84538cb33c1732",
+    "NewGuid": "5f504a1fab0c47e1b846325ed46aa3ff"
+  },
+  {
+    "FXName": "Fx_MudGolem01_Aoe_FX",
+    "OldGuid": "bc6208a7768382548aa7c958cb2dd2fe",
+    "NewGuid": "5c4de0521b004d4c99831a6620b8ca54"
+  },
+  {
+    "FXName": "Fx_Nightmare00_FX",
+    "OldGuid": "e3fedd6efee6b634181a394e5c4d1d3a",
+    "NewGuid": "9022b7a87e144e2b84bcfe863ed2cfc3"
+  },
+  {
+    "FXName": "Fx_ShamblingMound_FX",
+    "OldGuid": "033bcdb19c07e394fbc67298037a8eb4",
+    "NewGuid": "8f2d862d666244ea99f56187d78b016c"
+  },
+  {
+    "FXName": "Fx_ShockerLizard00_FX",
+    "OldGuid": "33fcf06c9237516448bdc443bba7ec30",
+    "NewGuid": "d6848702cadf45ef9a8879e4ffa61c63"
+  },
+  {
+    "FXName": "Fx_Treant00_Green_FX",
+    "OldGuid": "36ffe5b11274bc7458531a9c8e9f4676",
+    "NewGuid": "0c2ecb5ba6984a3b92584ffb55fbc7e1"
+  },
+  {
+    "FXName": "Fx_Treant01_Yellow_FX",
+    "OldGuid": "7903b6682b1c5e1459556e3280f19990",
+    "NewGuid": "68d4e697c72e45679ab39c897dc1d49e"
+  },
+  {
+    "FXName": "Fx_Treant02_Orange_FX",
+    "OldGuid": "dbe5bbc126d49c748b4154b9ba3a566c",
+    "NewGuid": "c9b2fec61dac4daf9897daa1f50b6757"
+  },
+  {
+    "FXName": "Fx_TrollStamp00_FX",
+    "OldGuid": "ce2026893caa7a940b76f439419b6cbe",
+    "NewGuid": "560ff33e23c3428a9dcf24c7015b0492"
+  },
+  {
+    "FXName": "Fx_TrollBossStamp00_FX",
+    "OldGuid": "9be85864edff7954e915c427cd4ec177",
+    "NewGuid": "4005765ae15042558af319c696594b31"
+  },
+  {
+    "FXName": "Fx_WaterElemental00_Big_FX",
+    "OldGuid": "3d8c10c1dcae5354ab0c7d1a29a2ca68",
+    "NewGuid": "5340e66c4d2b422d8a82320484946f9b"
+  },
+  {
+    "FXName": "Fx_WaterElemental00_Large_FX",
+    "OldGuid": "21ce4fdeb4bcbb048bafb120ac820231",
+    "NewGuid": "ad9cb855f2b84e97a32b27227d259c06"
+  },
+  {
+    "FXName": "Fx_WaterElemental00_Small_FX",
+    "OldGuid": "48a1b1986d417774796521276b55505b",
+    "NewGuid": "cb20d5bbc14f43d2b8a7081eaad578d5"
+  },
+  {
+    "FXName": "Fx_WillOWisp00_FX",
+    "OldGuid": "d1d8218b915a3dc459037d3f5c1c1193",
+    "NewGuid": "d6ff42a576934ff4bfbc03f1a5169f27"
+  },
+  {
+    "FXName": "WrigglingManBoss00_Cycle_FX",
+    "OldGuid": "2033f416b55f5694e95e2a8c02d42003",
+    "NewGuid": "dfca276459f843bfbd5d3a6670aa85f2"
+  },
+  {
+    "FXName": "Cutscene_Baphomet_HeartOut_Chains_00_FX",
+    "OldGuid": "b93af1b32a774c618be2e800482cb384",
+    "NewGuid": "b50b9b08288d4fe2aadf115155519161"
+  },
+  {
+    "FXName": "Cutscene_Baphomet_HeartOut_Chains_01_FX",
+    "OldGuid": "32c32e52a6764c6e92ae3ad8fd583395",
+    "NewGuid": "901c5800997349f1b90d51e949db91b6"
+  },
+  {
+    "FXName": "Cutscene_Baphomet_HeartOut_Knees_00_FX",
+    "OldGuid": "9a19b2c787b5462da248d2d58e9d17e0",
+    "NewGuid": "262cf9e6ce3841c9bce21074bbf2107f"
+  },
+  {
+    "FXName": "Cutscene_Baphomet_HeartOut_Knees_01_FX",
+    "OldGuid": "3ce3523bd9fd4557a0dab0d0a49c8e02",
+    "NewGuid": "ffc05ecf97e647b98af89236a7c8f174"
+  },
+  {
+    "FXName": "Cutscene_Nocticula_HeartOut_00_FX",
+    "OldGuid": "1223c797a8d54b038f09b5300bd9fefe",
+    "NewGuid": "a08b78a8b2d240c194927d04a412686e"
+  },
+  {
+    "FXName": "Cutscene_Nocticula_ShootBaphomet_00_FX",
+    "OldGuid": "8b6f64dc78e34138b0eca9bd7b4b7364",
+    "NewGuid": "05184b64428642bfa58bf0561c28011e"
+  },
+  {
+    "FXName": "Mythic4lvlAeon_AeonDispel00_VfxSfx_Composite_Ability_FX",
+    "OldGuid": "3c8a543e5b4e7154bb2cbe4d102a1604",
+    "NewGuid": "1d50e30430834c0e9c965e9fb562b152"
+  },
+  {
+    "FXName": "Mythic1lvlAeon_AbsoluteFocus00_FX",
+    "OldGuid": "1fd857c252b342e47bf3d805fad0ffc1",
+    "NewGuid": "de4b6b15e8064ab2b0e0eda070eb14ca"
+  },
+  {
+    "FXName": "Cutscene_AngelBarrier00_Buff_FX",
+    "OldGuid": "06d5a7820bae430abdfd6783a1ce41ad",
+    "NewGuid": "2749b60386fb4297b1a7930fbe006d26"
+  },
+  {
+    "FXName": "Cutscene_AngelRevealLight00_FX",
+    "OldGuid": "8c4c601dda534c85b33f2308963ae485",
+    "NewGuid": "628ff912c3b548f08c87a14d277ee4f9"
+  },
+  {
+    "FXName": "MythicNoneLvlAngel_HolyLight00_FX",
+    "OldGuid": "5597649780ac4c33b9ae16e8b14b95a1",
+    "NewGuid": "7f3e40fdfe954be6abeb81fd1c271511"
+  },
+  {
+    "FXName": "MythicSelf5Lich_SoulsTrail00_FX",
+    "OldGuid": "9f87de93b3a347ce8a163cf64548a535",
+    "NewGuid": "a6aad330766f4999942fdf949faa5002"
+  },
+  {
+    "FXName": "BloodCommon00_MajorHit_FX",
+    "OldGuid": "1649e84d80eab8841a22d6b8234a3ced",
+    "NewGuid": "db3d2e5b036446db8710bf25c3ad222f"
+  },
+  {
+    "FXName": "CureSeriousWounds00_FX",
+    "OldGuid": "de011b1295791a144b60689e876095d3",
+    "NewGuid": "9b5f1fea7e044a109bbca11dd6576a8e"
+  },
+  {
+    "FXName": "Mythic4lvlAzata_VoiceOfRenewal00_Aoe_FX",
+    "OldGuid": "b7dd986481719ee4c8ab9678a6b0e416",
+    "NewGuid": "7b96d73f07454683bdb203e79b6a7cf4"
+  },
+  {
+    "FXName": "MythicSelf1Azata_Butterflies00_FX",
+    "OldGuid": "9d30b54ee5f3cb149a3446e0bb4c965f",
+    "NewGuid": "98b1f01873ac420aae6b7b796c881759"
+  },
+  {
+    "FXName": "Mythic4lvlDemon_AbyssalChains00_Cutscene_FX",
+    "OldGuid": "9448437605ca46b79df81c4616240a4d",
+    "NewGuid": "ccb57ee00b9d41dc932d0c59158b89b7"
+  },
+  {
+    "FXName": "Dismember00_FX",
+    "OldGuid": "4cc3703f158b06a4a95a1a572d3fb969",
+    "NewGuid": "069f43f234dd4607bcbf75fc40ca6a46"
+  },
+  {
+    "FXName": "GreaterInvisibility00_FX",
+    "OldGuid": "cd5f79b21d254013bcd583d30be25f96",
+    "NewGuid": "866c2e2f05c1428b9138ac5613a8aca1"
+  },
+  {
+    "FXName": "GreaterInvisibility00_FullDisappear_FX",
+    "OldGuid": "a2a9fbd8795dd8c48bc70ad7ee6d945c",
+    "NewGuid": "922c8925bf754223a652c85b9bc563f5"
+  },
+  {
+    "FXName": "Stealth00_FX",
+    "OldGuid": "5d2476e10f6447cb8fb5b6380fe59daf",
+    "NewGuid": "95dc47410b904fe7afcc17456c2cd9f5"
+  },
+  {
+    "FXName": "Cutscene_ReturnToDrezen_IomedaiGlow00_FX",
+    "OldGuid": "1f6650e440434852b33bbc8fac5f2b07",
+    "NewGuid": "80b6d03b9fcf49968e037e7bc9420f8f"
+  },
+  {
+    "FXName": "KaessyQ1_DarkAndLight_FX",
+    "OldGuid": "dbbe1df8c0c6586478798c37c1922190",
+    "NewGuid": "4efe5f5332144feda00d01f06c466625"
+  },
+  {
+    "FXName": "BloodCommon00_StandartHit_FX",
+    "OldGuid": "d367a559d8b63e8418e24c2c33dd7a9f",
+    "NewGuid": "9b64dec8e4e64528b04a3022b61775f0"
+  },
+  {
+    "FXName": "Cutscene_MoltenScar_TransformationRitual_00_FX",
+    "OldGuid": "9427f1ac00626214ea0267aec1e25405",
+    "NewGuid": "92234e587f4349dc98f8fd53a7d41eb9"
+  },
+  {
+    "FXName": "Mythic4lvlDemon_DemonicForm00_AppearFirst_FX",
+    "OldGuid": "5f4d2dd15d2ab8f4ead3e9ad9e1a7eb5",
+    "NewGuid": "73526168ef3d47f78a011dbf19d7e1dd"
+  },
+  {
+    "FXName": "GhostFormTeal00_Cycle_FX",
+    "OldGuid": "c057f62e21250dc4fa809edd8dce6e1b",
+    "NewGuid": "5c96d57a3fdc4f44abe16dd06d6799e8"
+  },
+  {
+    "FXName": "Rage00_FX",
+    "OldGuid": "ca4ce032c2f59334eb6edf9b2ce93eef",
+    "NewGuid": "692b048e200b413cb15d13c2d93b4db9"
+  },
+  {
+    "FXName": "SummonMonsterI-III_00_Death_FX",
+    "OldGuid": "dcf3bcd231f9f4f4a864543edaabbbd3",
+    "NewGuid": "3a9708d41d63463d9a3a68026ec1da7d"
+  },
+  {
+    "FXName": "WoljifShadow00_FX",
+    "OldGuid": "f3aeeb7948ad49b7a581ad67cb9d3e02",
+    "NewGuid": "82089e3960534e068f8350b49fb833e8"
+  },
+  {
+    "FXName": "WoljifShadow_FX_2_FX",
+    "OldGuid": "f228e9a1aef74a5d8fb634081c725971",
+    "NewGuid": "20690e2c6a0b4400bb1d4c8a52570171"
+  },
+  {
+    "FXName": "Light00_FX",
+    "OldGuid": "571baa4cf65bbcb4996fe429ca77d1a5",
+    "NewGuid": "f389cc23f9e14e2c9cb36129dadc4ba5"
+  },
+  {
+    "FXName": "AcidMaw00_FX",
+    "OldGuid": "f1a6799b05a40144d9acdbdca1d7c228",
+    "NewGuid": "11c415b55428436282a502611589e707"
+  },
+  {
+    "FXName": "Blindness00_FX",
+    "OldGuid": "32b1096634c459e40acc6baf7b3d86d2",
+    "NewGuid": "226f8938fdba40b1a8a082145e0d3604"
+  },
+  {
+    "FXName": "Entangle00_Buff_FX",
+    "OldGuid": "f7f6330726121cf4b90a6086b05d2e38",
+    "NewGuid": "c401cf5fe5e543baa879387f6eabbd3d"
+  },
+  {
+    "FXName": "Glitterdust00_Buff_FX",
+    "OldGuid": "cc383a9eaae4d2b45a925d442b367b54",
+    "NewGuid": "579d11588d004562a7ad23380271a2d2"
+  },
+  {
+    "FXName": "Firebelly_Spawn_Audio_FX",
+    "OldGuid": "7c33de68880aa444bbb916271b653016",
+    "NewGuid": "2b95d4795a934bb1872c7b0f351414ed"
+  },
+  {
+    "FXName": "GravityBow00_FX",
+    "OldGuid": "002c51d933574824c8ef2b04c9d09ff5",
+    "NewGuid": "77a7865180ea4a80a2a819716ec30d62"
+  },
+  {
+    "FXName": "RemoveFear00_FX",
+    "OldGuid": "c5c86809a1c834e42a2eb33133e90a28",
+    "NewGuid": "d5019672aa6e4e319a62eb1a15bbeaf9"
+  },
+  {
+    "FXName": "StunningBarrier00_FX",
+    "OldGuid": "705fec87d90607444a1ae629acfeb94e",
+    "NewGuid": "b92009b2f56c4a4986ccb3d892608337"
+  },
+  {
+    "FXName": "TargetedBombAdmixture00_FX",
+    "OldGuid": "768b4b33721a36d4c8030e4878a13d28",
+    "NewGuid": "3cda7d43a6214b1685095f166b6b60ba"
+  },
+  {
+    "FXName": "Blur00_FX",
+    "OldGuid": "dd3ad347240624d46a11a092b4dd4674",
+    "NewGuid": "83e3b5b8b0c14d7b85a4ce0261cdbf96"
+  },
+  {
+    "FXName": "DweomerCreature00_Necromancy_FX",
+    "OldGuid": "7cd727ddd4cc4be498720e45f0c1f6f4",
+    "NewGuid": "b6d5ed881bef41ab8e2b6bfb781d554b"
+  },
+  {
+    "FXName": "Fox'sCunning00_FX",
+    "OldGuid": "c8c9872e9e02026479d82b9264b9cc6b",
+    "NewGuid": "b9267b88964e443a828f188af34babe0"
+  },
+  {
+    "FXName": "Glitterdust00_BlindnessBuff_FX",
+    "OldGuid": "52e4be2ba79c8c94d907bdbaf23ec15f",
+    "NewGuid": "970ebfcc508b4d16b35b71f30f07c6d9"
+  },
+  {
+    "FXName": "Grace00_Cycle_FX",
+    "OldGuid": "1efa689e594ca82428b8fff1a739c9be",
+    "NewGuid": "9afecf0b8d3445cfb5f5050ff2b83091"
+  },
+  {
+    "FXName": "HideousLaughter00_FX",
+    "OldGuid": "4b1f07a71a982824988d7f48cd49f3f8",
+    "NewGuid": "666c03e9a6af4c03be075389964a429e"
+  },
+  {
+    "FXName": "ChainsOfLight00_FX",
+    "OldGuid": "baf513d97f4194c44a82cb08647e8835",
+    "NewGuid": "f86c01ceabc04ed5ace82b451e71dd1f"
+  },
+  {
+    "FXName": "SickeningEntanglement00_Buff_FX",
+    "OldGuid": "6e4966ec7f29c8f499ec5cbc539a0315",
+    "NewGuid": "1c8d7d811064499293bdff254fb32e1a"
+  },
+  {
+    "FXName": "Web00_Slow_FX",
+    "OldGuid": "bb72a758112438e4a9c62f7637c974ae",
+    "NewGuid": "1750241f60cb4ccda2fb4e50ae7b1ab9"
+  },
+  {
+    "FXName": "Heroism00_FX",
+    "OldGuid": "87ab2fed7feaaff47b62a3320a57ad8d",
+    "NewGuid": "e467599b718c4aeb98bf2c6805fb6e7a"
+  },
+  {
+    "FXName": "VampiricTouch00_CastSnap_FX",
+    "OldGuid": "c4bd071ce69682f46aa780cc7118add9",
+    "NewGuid": "ded50d06cea9459e8514e3786b0f0fa7"
+  },
+  {
+    "FXName": "CapeOfWasps00_FX",
+    "OldGuid": "fd28ca0fc5461d240a4ddd0c15e81d65",
+    "NewGuid": "023052f9962444e29418f71ecbd29c78"
+  },
+  {
+    "FXName": "FearPanicked00_FX",
+    "OldGuid": "02924d88f80c5374eacbbccb499d5778",
+    "NewGuid": "2f9e3f9101cd4d8dbcbbacd0feef1035"
+  },
+  {
+    "FXName": "CommonConjurationBuff00_FX",
+    "OldGuid": "fb0ae0908b3d5c3459be94e11e0c1687",
+    "NewGuid": "a2f33f6086ec4431ab5e036f268ffe34"
+  },
+  {
+    "FXName": "FreedomOfMovement00_Cycle_FX",
+    "OldGuid": "1533e782fca42b84ea370fc1dcbf4fc1",
+    "NewGuid": "4381fb06744d43af91e31d9d030e0eea"
+  },
+  {
+    "FXName": "OilBuff00_FX",
+    "OldGuid": "d675f7d2254711d4b8fc069925874a06",
+    "NewGuid": "0e694c3bd1044adcb8a3fa70469e74d1"
+  },
+  {
+    "FXName": "ShieldofDawn00_FX",
+    "OldGuid": "07abad76e7b688242b56749cd25f5d3d",
+    "NewGuid": "22f245c238354530917d88eba723c824"
+  },
+  {
+    "FXName": "ThornBody00_FX",
+    "OldGuid": "3749c8ac1a99a5f488f5782f74807eec",
+    "NewGuid": "7c4e88f43457439381037c735f4af9ce"
+  },
+  {
+    "FXName": "SlimeBuff00_FX",
+    "OldGuid": "d5296c2894af78a4f8e3b5cc0d03be52",
+    "NewGuid": "432320e456d94f9897fa3abfa6f6a00d"
+  },
+  {
+    "FXName": "MagicFang00_FX",
+    "OldGuid": "98d9d1a761c8ade49964aa97ecd8dc1a",
+    "NewGuid": "f21aebb67c844cd093db66b2c5730bd1"
+  },
+  {
+    "FXName": "CaveFangsStalactitesEntangledBuff00_FX",
+    "OldGuid": "4f8a81bf8f2029d44a3b0f0b7866f910",
+    "NewGuid": "97424eb2695c4913b47e0bafd390414d"
+  },
+  {
+    "FXName": "AirCreature00_Cycle_FX",
+    "OldGuid": "082caf8c1005f114ba6375a867f638cf",
+    "NewGuid": "9788f0766cf943439867a95274108b1a"
+  },
+  {
+    "FXName": "FireCreature00_Cycle_FX",
+    "OldGuid": "d47f45f29c4cfc0469f3734d02545e0b",
+    "NewGuid": "ffe785d654294f27af916c704f4a53ec"
+  },
+  {
+    "FXName": "WaterCreature00_Cycle_FX",
+    "OldGuid": "4f37fc07fe2cf7f4f8076e79a0a3bfe9",
+    "NewGuid": "6af4e5b1f28845d39335d2ca88f6e5d0"
+  },
+  {
+    "FXName": "FleshToStone00_FX",
+    "OldGuid": "1d498104f8e35e246b5d8180b0faed43",
+    "NewGuid": "a42ddf26d765440b92c7cf21c65a1084"
+  },
+  {
+    "FXName": "ShieldOfDarkness00_FX",
+    "OldGuid": "b23eb856f521ba041bccd05a0e472604",
+    "NewGuid": "eb38a6ed74a24e259e788e98e123d027"
+  },
+  {
+    "FXName": "Disintegrate00_Dissipation_FX",
+    "OldGuid": "f7a6a7d2cfeb36643915aece45349827",
+    "NewGuid": "b4f49c4589634a0893050676d0ec1190"
+  },
+  {
+    "FXName": "TarBuff00_FX",
+    "OldGuid": "631d255f6b89afe45b32cf66c35a4205",
+    "NewGuid": "3e6399070223436983149a8a5df7c923"
+  },
+  {
+    "FXName": "Transformation00_Cyrcle_FX",
+    "OldGuid": "287682389d2011b41b5a65195d9cbc84",
+    "NewGuid": "395c03509aff4090860bf630a2612727"
+  },
+  {
+    "FXName": "FireBrand00_FX",
+    "OldGuid": "c6cc1c5356db4674dbd2be20ea205c86",
+    "NewGuid": "1a00c5780e0e4d20a7a75c8d4015e5bb"
+  },
+  {
+    "FXName": "SonicSingleTargetSpell_VfxSfx_Composite_FX",
+    "OldGuid": "45dadc2e291367b45b1110d3be039cad",
+    "NewGuid": "4433473db5e245e188004cfeceaaf4ce"
+  },
+  {
+    "FXName": "ProtectionFromLaw00_FX",
+    "OldGuid": "627224e071dc51f47ba402fcbb6f830d",
+    "NewGuid": "da31bc1604a44186867499b47436cb4d"
+  },
+  {
+    "FXName": "ResistEnergy00_FX",
+    "OldGuid": "e9947402c84e8bc4e958b9be08d7a720",
+    "NewGuid": "5bc726aac09745a391aaafa0b9db1712"
+  },
+  {
+    "FXName": "Seamantle00_Cycle_FX",
+    "OldGuid": "1c05dd3a1c78b0e4e9f7438a43e7a9fd",
+    "NewGuid": "c47ec0743c8e47e899f8ea048037d991"
+  },
+  {
+    "FXName": "ProtectionFromChaos00_FX",
+    "OldGuid": "0da7299aac601d445a355152084c251a",
+    "NewGuid": "b7fb00eacf0543a4ac6ea522d4b2bfd0"
+  },
+  {
+    "FXName": "EyesGlowing00_Optimised_FX",
+    "OldGuid": "b84d39e6ddc9495ab077a65e6eec1954",
+    "NewGuid": "409744f99ae64594a7ff7ff59ccafb14"
+  },
+  {
+    "FXName": "MythicTricksterHat00_Witch_FX",
+    "OldGuid": "7a541f2438c540679932a714ced04a09",
+    "NewGuid": "381cbbc18ac94166a97d3ea5e28e0343"
+  },
+  {
+    "FXName": "MythicTricksterHat00_Marksman_FX",
+    "OldGuid": "bc2434844d9d46f191d212374445b395",
+    "NewGuid": "5a2e28cc31dd40e9ae7bb3d79fa67926"
+  },
+  {
+    "FXName": "MythicTricksterHat00_HatArchmage_FX",
+    "OldGuid": "7063a738a8ea4e9b84d070970e49a8ce",
+    "NewGuid": "b09f87f031a941869ab46e8c2007583f"
+  },
+  {
+    "FXName": "MythicTricksterHat00_HatOracle_FX",
+    "OldGuid": "1fb2fcb2a768469488a1ab02a7be72e7",
+    "NewGuid": "25e35837b45e43119542df086c6e5d76"
+  },
+  {
+    "FXName": "FingerOfDeath00_FX",
+    "OldGuid": "6533ad1a5fc20f641a1cabaf22ebe758",
+    "NewGuid": "b896e46b22314b9095529c2254ecec56"
+  },
+  {
+    "FXName": "Resistance00_FX",
+    "OldGuid": "d3a217dba1100f9449e7f249d2916f86",
+    "NewGuid": "8b23368e3d5f4315a3d174074ffa56b6"
+  },
+  {
+    "FXName": "Barkskin00_FX",
+    "OldGuid": "25464fd4b0be6c645ad60d857fc3fd7a",
+    "NewGuid": "fe341df4405b4d6597ad4d9bb844d018"
+  },
+  {
+    "FXName": "Kinetic_Entangle_Ice00_FX",
+    "OldGuid": "fb64c249d44317443bb1f2271ed963af",
+    "NewGuid": "1bf753e8d4d1444daf87ffd35316bcd4"
+  },
+  {
+    "FXName": "BloodRage00_Cycle_FX",
+    "OldGuid": "5eac31e457999334b98f98b60fc73b2f",
+    "NewGuid": "939feb9db5ed4614aea3a8248c009017"
+  },
+  {
+    "FXName": "JudgmentDestruction00_Cycle_FX",
+    "OldGuid": "a8e7e315b5a241b47ad526771eee19b7",
+    "NewGuid": "92f014c85455499ba823bec3b24580e4"
+  },
+  {
+    "FXName": "JudgmentHealing00_Cycle_FX",
+    "OldGuid": "b1b7eeb49d703b047a3a534f17863001",
+    "NewGuid": "e3d0174b1d824e7fba64a47dda0bf9f1"
+  },
+  {
+    "FXName": "JudgmentJustice00_Cycle_FX",
+    "OldGuid": "fc246eb29c8f95c449fd156759f421e9",
+    "NewGuid": "63342ad47bef48629ed732d480107ddd"
+  },
+  {
+    "FXName": "JudgmentPiercing00_Cycle_FX",
+    "OldGuid": "4d2930114daad304da816b1412c85d1d",
+    "NewGuid": "ef82572d39934cb4882eb916152e727b"
+  },
+  {
+    "FXName": "JudgmentProtection00_Cycle_FX",
+    "OldGuid": "99345ce7c0f8001438fee23db660d039",
+    "NewGuid": "d81a0ec206944700bc81475f43403c2a"
+  },
+  {
+    "FXName": "JudgmentPurity00_Cycle_FX",
+    "OldGuid": "fbc7fe386bceb354494b05736381c238",
+    "NewGuid": "2953c34cc09f417293040dbaaff8cf1a"
+  },
+  {
+    "FXName": "JudgmentResiliency00_Cycle_FX",
+    "OldGuid": "61b9776ff6270ac48b0daffec5032052",
+    "NewGuid": "291991dd43ee4914989ad27649b62af3"
+  },
+  {
+    "FXName": "JudgmentResistance00_Cycle_FX",
+    "OldGuid": "e73da542e92df1843a93e29701a2e1d8",
+    "NewGuid": "a675314c14c14cd299ea52ca758685c7"
+  },
+  {
+    "FXName": "JudgmentSmiting00_Cycle_FX",
+    "OldGuid": "2e3f01df36b508b4e9186bab7a337dfa",
+    "NewGuid": "cf74827b565a4301afc5e6e0967d1a94"
+  },
+  {
+    "FXName": "Kinetic_GatherPower_ElectricBlast00_FX",
+    "OldGuid": "633f147eb1567274e9ed4d4150d79d78",
+    "NewGuid": "c2ee44154f65426b9f32763ad657bce0"
+  },
+  {
+    "FXName": "Kinetic_GatherPower_ElectricBlastInpower00_FX",
+    "OldGuid": "0ddc64a1dc3bbf84c8d6aa33cf2b8607",
+    "NewGuid": "6e3d3402b04b4391aa30a240a65620f8"
+  },
+  {
+    "FXName": "Kinetic_GatherPower_EarthBlast00_FX",
+    "OldGuid": "28a39fc406a974748bd70ce3908efe61",
+    "NewGuid": "3360dc9a886c4d1886140612a33c5389"
+  },
+  {
+    "FXName": "Kinetic_GatherPower_EarthBlastInpower00_FX",
+    "OldGuid": "82e8e3115e95d064685acc3c75053174",
+    "NewGuid": "718463d887d8447cbfec96f385de109c"
+  },
+  {
+    "FXName": "Kinetic_GatherPower_FireBlast00_FX",
+    "OldGuid": "3bcf793f91cbd104280efe590d6e4d0c",
+    "NewGuid": "889dcdde0af44dd5a7452bbcb08d06c9"
+  },
+  {
+    "FXName": "Kinetic_GatherPower_FireBlastInpower00_FX",
+    "OldGuid": "63b8e8e8a453d874aa379428a089fc1f",
+    "NewGuid": "b1b1a489e922406b983cf10d05d88ea6"
+  },
+  {
+    "FXName": "Kinetic_GatherPower_ColdBlast00_FX",
+    "OldGuid": "8a59a1b6f3db18e4d831623718706a03",
+    "NewGuid": "92d997d6466f46398cc58fe6d7a487b3"
+  },
+  {
+    "FXName": "Kinetic_GatherPower_ColdBlastInpower00_FX",
+    "OldGuid": "68c1e339205d6c14e902aeb4c7ee2d2c",
+    "NewGuid": "f4cba556dcf44c1f92c54e8629bbbb15"
+  },
+  {
+    "FXName": "Poison00_DotHit_FX",
+    "OldGuid": "3292adf923d5b864e8ece930381eaee3",
+    "NewGuid": "87b139f9404943438386cbd8a899d1a9"
+  },
+  {
+    "FXName": "CrazyCrystalBuff00_FX",
+    "OldGuid": "1ccd7ed5d1dc4c659152f39b4fa674b1",
+    "NewGuid": "4d53e405227f4affbeab9bf369d3ad80"
+  },
+  {
+    "FXName": "Oracle_AirBarrier00_FX",
+    "OldGuid": "d1780cfbc285b394fb8e80511fa082c3",
+    "NewGuid": "fd9f2e0876294f44b9c5694e9159b497"
+  },
+  {
+    "FXName": "GhostForm00_Cycle_FX",
+    "OldGuid": "d866e35ea697df445be59e3d1c69d9ba",
+    "NewGuid": "141c1f7a6031423d80c27869d9c76b76"
+  },
+  {
+    "FXName": "DebilitatingInjury00_Bewildered_FX",
+    "OldGuid": "22b1d98502050cb4cbdb3679ac53115e",
+    "NewGuid": "bad0a729c8884a0a9a33c5b934203c30"
+  },
+  {
+    "FXName": "DebilitatingInjury00_Disoriented_FX",
+    "OldGuid": "1f1e42f8c06d7dc4bb70cc12c73dfb38",
+    "NewGuid": "deb1025e75474a7d9dffb5e872494c64"
+  },
+  {
+    "FXName": "DebilitatingInjury00_Hampered_FX",
+    "OldGuid": "5bfefc22a68e736488b0c309d9c1c1d4",
+    "NewGuid": "f7de71f20aa64d1a85c0e1f5a579cda5"
+  },
+  {
+    "FXName": "Witch_EvilEye00_FX",
+    "OldGuid": "4f918c1923ee2964aaa0f4c57bd32501",
+    "NewGuid": "9e1a45fab99d4c6cae6df1d2f1f12e6c"
+  },
+  {
+    "FXName": "SpiderSwarm00_Buff_Cycle_FX",
+    "OldGuid": "cbdbf81a41b8a824d8a738e3bfc9cae2",
+    "NewGuid": "0ceee45f5e154de6a64cef50c3aa1acd"
+  },
+  {
+    "FXName": "DefensiveStance00_Cycle_FX",
+    "OldGuid": "3dccdf27a8209af478ac71cded18a271",
+    "NewGuid": "e3164ad41fa443648fd1e5b1a43a9b12"
+  },
+  {
+    "FXName": "Witch_Slumber00_FX",
+    "OldGuid": "1ad64500bb3364442a9c7d28cf9a24d3",
+    "NewGuid": "594a5bf7a0aa4e16b2765bb5df539cd5"
+  },
+  {
+    "FXName": "DoombringerCreature00_Red_FX",
+    "OldGuid": "5408909d2677f0242b178ecbd2926127",
+    "NewGuid": "e1d9b621c9a24ce398c2b35867d46c2e"
+  },
+  {
+    "FXName": "DoombringerInvisibility00_FX",
+    "OldGuid": "959857c15f0ec984884416b795cad5aa",
+    "NewGuid": "a7f6796d18154e0c9daed41f144c77bb"
+  },
+  {
+    "FXName": "QuicklingCreature00_Cycle_FX",
+    "OldGuid": "abb52a44a749db74e826b914587d8438",
+    "NewGuid": "afbe76854ca74d44b2ac8286ddb4ddff"
+  },
+  {
+    "FXName": "TreantCreature00_Cycle_FX",
+    "OldGuid": "44051197e8cf4ca4ba74570f399f5202",
+    "NewGuid": "5e11aa00df304453a17bb32bffe362cf"
+  },
+  {
+    "FXName": "SturdyTreantCreature00_Cycle_FX",
+    "OldGuid": "3fba7aaec8ead704db55bc0ab4582efe",
+    "NewGuid": "0292d8b35bc24eb099aedbfd1dae7c8e"
+  },
+  {
+    "FXName": "BindingsOfThePrince00_FX",
+    "OldGuid": "27fd890432419db4ea8d803dcd1ddde9",
+    "NewGuid": "632e558539cb4b0c989d231982ca92c9"
+  },
+  {
+    "FXName": "DirgeOfDoom00_CasterCycle_FX",
+    "OldGuid": "affee8b7dab0c994abc57c1a8a16e999",
+    "NewGuid": "a0cf21879d8b4e7a9676cc9067fa0160"
+  },
+  {
+    "FXName": "MythicNonelvlAngelHalo00_FX",
+    "OldGuid": "5612f298280bb64498a553cb7d56d215",
+    "NewGuid": "1ea4f5c888b0404086f30dbd494c0e36"
+  },
+  {
+    "FXName": "Mythic3lvlAngel_AngelShield00_FX",
+    "OldGuid": "121e7332029207e409a76044780cea0d",
+    "NewGuid": "84198bf330204e15b2733b28fd86cd1e"
+  },
+  {
+    "FXName": "Mythic3lvlAngel_AngelWard00_FX",
+    "OldGuid": "8801f41b253263249a3d3a46cdf3b276",
+    "NewGuid": "3cc37285115542d6af339f1c96382e77"
+  },
+  {
+    "FXName": "WingsHerald_RIG_FX",
+    "OldGuid": "289750290e399a3478bed7b49b1cddd2",
+    "NewGuid": "5552947f9a9245caa99dcaf2fb81342a"
+  },
+  {
+    "FXName": "InspireCompetence00_CasterCycle_FX",
+    "OldGuid": "17831f3fa25cf52458a34b0acc034b40",
+    "NewGuid": "ac598ee59cd14991b8d6bd9f152484b0"
+  },
+  {
+    "FXName": "Mythic5lvlAzata_DeadlyBeauty00_FX",
+    "OldGuid": "9937e77f5bb2baf4297064fceb262fe8",
+    "NewGuid": "48b711a439934fc1bd66699e703ecf5d"
+  },
+  {
+    "FXName": "Mythic5lvlAzata_SwirlingLeaves00_FX",
+    "OldGuid": "4652211718a2d9f4f860af19ad689663",
+    "NewGuid": "0375663cc3404a6abcfda6b349982f00"
+  },
+  {
+    "FXName": "Mythic4lvlAzata_RainbowDome00_Acid_FX",
+    "OldGuid": "ab7fa82ee8bfa0142aab3bd6d4948f4a",
+    "NewGuid": "805f1c696fe742b891b994d1115840ec"
+  },
+  {
+    "FXName": "Mythic4lvlAzata_RainbowDome00_Cold_FX",
+    "OldGuid": "1de774bc915a6e44787b06306a1edd7c",
+    "NewGuid": "775c901fd0824e029176391052a0cae1"
+  },
+  {
+    "FXName": "Mythic4lvlAzata_RainbowDome00_Electro_FX",
+    "OldGuid": "6c2bfe4da2cac3b48a68a78f81fce4a5",
+    "NewGuid": "bae6808d38ad4d9d99edd88809754a9e"
+  },
+  {
+    "FXName": "Mythic4lvlAzata_RainbowDome00_Fire_FX",
+    "OldGuid": "7c77e0372abd03b408e0ce38e5ce6062",
+    "NewGuid": "947b523407264293be59166ebe410a4a"
+  },
+  {
+    "FXName": "Mythic4lvlAzata_RainbowDome00_Sonic_FX",
+    "OldGuid": "23e06724828a3974c89a1cd0e4a1c7be",
+    "NewGuid": "1ec8cdcd86b545f59b82ff7940b7bfe4"
+  },
+  {
+    "FXName": "Mythic6lvlDemon_DemonicRage00_Cycle_FX",
+    "OldGuid": "36ca5ecd8e755a34f8da6b42ad4c965f",
+    "NewGuid": "c983f3504088478fb7205e2a3a31e642"
+  },
+  {
+    "FXName": "Mythic3lvlDemon_AbyssalSkin00_FX",
+    "OldGuid": "4b51d5e45b4fcce47b84b451068f3fcf",
+    "NewGuid": "003b298f23754969b99de304b0f313d6"
+  },
+  {
+    "FXName": "Mythic4lvlDemon_BloodHaze00_Cycle_FX",
+    "OldGuid": "173af01d6aae5574ba0391e277e9b168",
+    "NewGuid": "f3762ab538af4cc3bcc46567edcc0513"
+  },
+  {
+    "FXName": "Mythic3lvlDemon_FlamesOfTheAbyss00_OnFists_FX",
+    "OldGuid": "c16a3f85221254245bdbdbe5cd431095",
+    "NewGuid": "1e34427a17f8456e928ec44a88e7b873"
+  },
+  {
+    "FXName": "Mythic6lvlDevil_Hell'sDecree00_FX",
+    "OldGuid": "4e0802f4e78e7874f9f2468fb7015137",
+    "NewGuid": "095ed95b2d4340478ba8afcacb6344fc"
+  },
+  {
+    "FXName": "Mythic6lvlDevil_Hell'sSeal00_FX",
+    "OldGuid": "5617dbbb3890e2f4b96b47318c5c438b",
+    "NewGuid": "0a162d701fde47ed9b1f18f86f166ad3"
+  },
+  {
+    "FXName": "Mythic4lvlLich_CommonLichBuff00_FX",
+    "OldGuid": "e4e9f9169c9b28e40aa2c9d10c369254",
+    "NewGuid": "09641aef836943a0bf922709bac72789"
+  },
+  {
+    "FXName": "Mythic4lvlLich_BloodBuff_00_FX",
+    "OldGuid": "1419d2e2eee432849b0a596e82b9e0a2",
+    "NewGuid": "e980b74ad60c4f06b3321fb1ba8d76f1"
+  },
+  {
+    "FXName": "Mythic9lvlLich_CorruptMagic00_Debuff_FX",
+    "OldGuid": "9f1252226cde84040859bbf1cfbcf0bb",
+    "NewGuid": "f630e8503dfb4b778f020b47797028f1"
+  },
+  {
+    "FXName": "Mythic9lvlLich_DeathRealm00_Hit_FX",
+    "OldGuid": "b47455a3bb2987049b3cb95a24963eb0",
+    "NewGuid": "30e9bb13234747aeb9dd9ce56a7573b8"
+  },
+  {
+    "FXName": "Mythic7lvlLich_HungryFlesh00_EntangleBuff_FX",
+    "OldGuid": "16ed1bf618c6e364b9c0aca9ce8cb54a",
+    "NewGuid": "ec39bc971f2643b190da8700441c43c2"
+  },
+  {
+    "FXName": "Mythic7lvlLich_Repurpose00_Debuff_FX",
+    "OldGuid": "b7043130aeffe094285c8c74cd0ff576",
+    "NewGuid": "69f5fa601979476c8e7ad60c6430faa4"
+  },
+  {
+    "FXName": "Mythic7lvlLich_EmbraceOfDeath00_FX",
+    "OldGuid": "03e56d7d819a3ce40a3b00847ff00ea6",
+    "NewGuid": "18c6c88bfb944d6797e29a45303d15d5"
+  },
+  {
+    "FXName": "Mythic7lvlLich_Repurpose00_Creature_FX",
+    "OldGuid": "5e18ce2e21330e34690c372fbd9d6d60",
+    "NewGuid": "f8d6838fbcc84e25839b1eb5c148f3b9"
+  },
+  {
+    "FXName": "Mythic7lvlLich_Repurpose00_FX",
+    "OldGuid": "57785c3bf386461ea3d623d627314afa",
+    "NewGuid": "7de44840bfff4334a22e2457bc2953b5"
+  },
+  {
+    "FXName": "SongOfFallen00_onTarget_FX",
+    "OldGuid": "e2cd971a6a004c53b55abd336ac8da03",
+    "NewGuid": "81d17ac8ba264b7287d4e85307a93153"
+  },
+  {
+    "FXName": "Mythic4lvlLich_VampiricBlade00_FX",
+    "OldGuid": "f6007b38909c3b248a8a77b316f5bc2d",
+    "NewGuid": "d666a8fb76b64950ba0ab2813005a7c2"
+  },
+  {
+    "FXName": "Mythic2lvlTrickster_Bear'sGrace00_FX",
+    "OldGuid": "5d578b04850e7844bbafa7569fdcb360",
+    "NewGuid": "01bfab67d2b44f2b9d836b9371dab2d4"
+  },
+  {
+    "FXName": "Mythic3lvlTrickster_TricksterGloriousBeard00_FX",
+    "OldGuid": "db2522aaf66d67c4a93986fcb411e6c7",
+    "NewGuid": "4f33e6bda5094c198102d52974d2fd7c"
+  },
+  {
+    "FXName": "Mythic7lvlTrickster_TrickFate00_FX",
+    "OldGuid": "29d646e16e2539e45964f708f4c4f000",
+    "NewGuid": "f2a1da9fd4c6459a8a43beeb987e8f43"
+  },
+  {
+    "FXName": "DemonSlaveCollar00_FX",
+    "OldGuid": "9986e8160c9f802409744bd531952a1f",
+    "NewGuid": "cc3fe95f563045f9b1e24b0cedc9eb32"
+  },
+  {
+    "FXName": "DemonSlaveCollar00_MinotaursVersion_FX",
+    "OldGuid": "7ae14a6759774bfc96117cd728824983",
+    "NewGuid": "54356cb429064bb4a45e6d6787a55729"
+  },
+  {
+    "FXName": "FireWings00_FX",
+    "OldGuid": "147242cfaa688b04ca20dbd437b5fcf2",
+    "NewGuid": "6c45a2a8a12e457785d583156de44e21"
+  },
+  {
+    "FXName": "Areshkagal_Dialog00_FX",
+    "OldGuid": "2f897f9a5ada4cfd98ba78e773ab816f",
+    "NewGuid": "a4bd3d3756af4b9992eb867fcff8d078"
+  },
+  {
+    "FXName": "DevilBloodHit00_FX",
+    "OldGuid": "2b269248095e0c942ab271c1ec601d8a",
+    "NewGuid": "aa35d8c592704c7bbd2eb28ddcd5fe7b"
+  },
+  {
+    "FXName": "Cutscene_ShadowBoss00_FX",
+    "OldGuid": "faf2133d48b641149343f4dac75fba47",
+    "NewGuid": "0ad783f8373b4ae39829d87336288247"
+  },
+  {
+    "FXName": "DeathCurse00_Mark_FX",
+    "OldGuid": "3d7cbc45ef31e2c4a8803ef31f2e3879",
+    "NewGuid": "f08db31abbbb4e0288f9f722e1b102c5"
+  },
+  {
+    "FXName": "Mythic4lvlDemon_AbyssalChains00_FX",
+    "OldGuid": "b16c70cd802447f45bc83c7a5a40e307",
+    "NewGuid": "fe1ba97220224fcc8f28b47b91d8259e"
+  },
+  {
+    "FXName": "InflictLightWounds00_FX",
+    "OldGuid": "7ab42d6ab3eb9e94fb66c075929bec68",
+    "NewGuid": "38a39462f5d24177ad399d99f5a763e6"
+  },
+  {
+    "FXName": "TreantCreature00_Cycle_ForBear_FX",
+    "OldGuid": "68ab246f2faf3df47ad8e60c449a31ef",
+    "NewGuid": "ffc71c65de1a44dba6ff89e20a5402ce"
+  },
+  {
+    "FXName": "Fx_Devastator00_FX",
+    "OldGuid": "bab40390694441fea892c7f9c60487f8",
+    "NewGuid": "152a4bb3ce8c4929bf9e08e12817361c"
+  },
+  {
+    "FXName": "PaladinWeaponEnchant00_Precast_FX",
+    "OldGuid": "70b34e1de03641b4a5a35b5fda6f0642",
+    "NewGuid": "f4739e03bdbf417c857d463d74e5b368"
+  },
+  {
+    "FXName": "Prayer_Buff00_Audio_FX",
+    "OldGuid": "b4692932777320045a605b4844a6e69b",
+    "NewGuid": "9659c234067046b3a288ae22c0e67835"
+  },
+  {
+    "FXName": "Acid00_CritHit_FX",
+    "OldGuid": "0ab91f59b8d84ee48737d1c0d0902648",
+    "NewGuid": "a8b79ceff1a5468b821c1df883121d4a"
+  },
+  {
+    "FXName": "Cold00_CritHit_FX",
+    "OldGuid": "75a78716eab059a44aceae1da9d0867a",
+    "NewGuid": "66457d96c4cc4c07be750e4a2f7c7d2e"
+  },
+  {
+    "FXName": "CommonIllusionBuff00_FX",
+    "OldGuid": "593c8b1fde8e4ab6b5df8b80c4b8df65",
+    "NewGuid": "b411ca62e5414f1b8ea6643ce60bfc5d"
+  },
+  {
+    "FXName": "HolyPlace00_Buff_FX",
+    "OldGuid": "adcc8e0615fa4e37bd7e5854302203fe",
+    "NewGuid": "eba043db28b64a298d923ccaeb50216c"
+  },
+  {
+    "FXName": "MythicNoneLvlAeon_GuiltMark00_FX",
+    "OldGuid": "9815f77129674e8e886de2d458ecdf49",
+    "NewGuid": "049370f0fcf9497eb61c38cb7db2fae0"
+  },
+  {
+    "FXName": "Buff_Audio_TrollSnoring_FX",
+    "OldGuid": "38d998bbc26a84146a9c322d93241048",
+    "NewGuid": "89c40655c80a4af0a69c0b816040c2a8"
+  },
+  {
+    "FXName": "IllusionTransformation00_AppearFirst_FX",
+    "OldGuid": "0093c29520bf42f1b3d28b441e13e419",
+    "NewGuid": "03b647c79cda474b86ebe02c7dc7dc2b"
+  },
+  {
+    "FXName": "IllusionTransformation00_DissappearFirst_FX",
+    "OldGuid": "9688125d914545b9a4cfad224e92e4d7",
+    "NewGuid": "61f71c59ba9e4f798ef745e989c1bdca"
+  },
+  {
+    "FXName": "Disintegrate00_Dissipation_cutscene_FX",
+    "OldGuid": "b35119863be5428396b23dc42eaa90db",
+    "NewGuid": "8d8656d40cc64195a1ec32ff62b5b4fa"
+  },
+  {
+    "FXName": "AcidArrow00_Hit_FX",
+    "OldGuid": "4e15565b830d4b841b59e701d3395371",
+    "NewGuid": "edfb5dc93053425cbab38198255d0247"
+  },
+  {
+    "FXName": "AasimarHalo00_Cycle_FX",
+    "OldGuid": "7bf740b33eaa2534e91def3cef142e00",
+    "NewGuid": "17e489e693a444cb802b668453abd70b"
+  },
+  {
+    "FXName": "SkaldFiendTotem00_FX",
+    "OldGuid": "d0649010d93907745a44034ad6eeeb5e",
+    "NewGuid": "e294785bcb744c57b8aedb801870d8b7"
+  },
+  {
+    "FXName": "DivineFavor00_FX",
+    "OldGuid": "2ef43eabd1d15fe4399e45806e9ca2d0",
+    "NewGuid": "a3ddf8babd1546939500350de603c96d"
+  },
+  {
+    "FXName": "Fascinate00_CasterCycle_FX",
+    "OldGuid": "555930f121b364a4e82670b433028728",
+    "NewGuid": "0d04aa263f794788ad02413430e9bda6"
+  },
+  {
+    "FXName": "InspireCompetence00_Buff_FX",
+    "OldGuid": "1fa5f733fa1d77743bf54f5f3da5a6b1",
+    "NewGuid": "7d2d5cca36bf41c4a6f3f1bcfd4ffb01"
+  },
+  {
+    "FXName": "InspireCourage00_CasterCycle_FX",
+    "OldGuid": "b4027a834204042409248889cc8abf67",
+    "NewGuid": "ace9d494fd8c4c759795c45b593ac670"
+  },
+  {
+    "FXName": "InspireCourage00_Buff_FX",
+    "OldGuid": "6d6d9e06b76f5204a8b7856c78607d5d",
+    "NewGuid": "7f058b1b4a3f44488870d7b205e0500d"
+  },
+  {
+    "FXName": "TouchOfChaos00_FX",
+    "OldGuid": "96bbd279e0bed0f4fb208a1761f566b5",
+    "NewGuid": "0336b88c05e54d64bab69af99faa6461"
+  },
+  {
+    "FXName": "TouchOfEvil00_FX",
+    "OldGuid": "98e7d50d6e1e3b44da6d9cce84f18b43",
+    "NewGuid": "af955a0af3c24ccabf77b618a8326b30"
+  },
+  {
+    "FXName": "TouchOfGood00_FX",
+    "OldGuid": "f185e4585bda72b479956772944ee665",
+    "NewGuid": "8513c58366504d069e806b27c2f77e5d"
+  },
+  {
+    "FXName": "TouchOfLaw00_FX",
+    "OldGuid": "da0248dbcf8b8ab43bf3f17953d47044",
+    "NewGuid": "a098bb102d5a43dfbd8fa3a8df5ab833"
+  },
+  {
+    "FXName": "BitOfLuck00_FX",
+    "OldGuid": "3bc40c9cbf9a0db4b8b43d8eedf2e6ec",
+    "NewGuid": "861cb361d306422095e2c2e6a805e36f"
+  },
+  {
+    "FXName": "Mythic3lvlLich_BoneWard00_FX",
+    "OldGuid": "f9c714739b9a3d34f9ce54549ba2beb0",
+    "NewGuid": "7f3ad577e95346afa43b7db88b319d1b"
+  },
+  {
+    "FXName": "Electro00_DotHit_FX",
+    "OldGuid": "e24d584dfa1c9834b81b55611b05f27c",
+    "NewGuid": "4d2172e196df4cb9b0b97d335b90e01d"
+  },
+  {
+    "FXName": "Witch_DeliciousFright00_FX",
+    "OldGuid": "e8c0fcf603dc0ea44a0b27624699bf17",
+    "NewGuid": "1e7f3c7bd7a44b95851c7f023cf1ef92"
+  },
+  {
+    "FXName": "DweomerCreature00_Abjuration_FX",
+    "OldGuid": "726b64ddd376cc541906183137301d62",
+    "NewGuid": "0a56a190830244c3852aeb2941ba4980"
+  },
+  {
+    "FXName": "DweomerCreature00_Conjuration_FX",
+    "OldGuid": "6a378792034a2a748b37153ac6c7fec2",
+    "NewGuid": "837820e08ace40c693b0e87229e043c0"
+  },
+  {
+    "FXName": "DweomerCreature00_Divination_FX",
+    "OldGuid": "f30f9427e369af8409afec8959a9fa67",
+    "NewGuid": "29adbece008c4e429ad0b5622f62bc9b"
+  },
+  {
+    "FXName": "DweomerCreature00_Illusion_FX",
+    "OldGuid": "53c0563c1d0eccb4a83e4ebc0faf6a54",
+    "NewGuid": "334bf66199794e9a97f22a2dbe51509c"
+  },
+  {
+    "FXName": "DweomerCreature00_Transmutation_FX",
+    "OldGuid": "6c350de15324ec9449a18e1eb1f68125",
+    "NewGuid": "35659f98bdb04244a3cce7790747092e"
+  },
+  {
+    "FXName": "SmiteGood00_Debuff_FX",
+    "OldGuid": "a9035e49d6d79a64eaec321f2cb629a8",
+    "NewGuid": "546d3bb5b5c8448d9ee2caa02077dd7f"
+  },
+  {
+    "FXName": "MythicNonelvlAzata_AzataSong00_Conjuration_CasterCycle_FX",
+    "OldGuid": "c0b272d331d88c54c812ba54e00b1414",
+    "NewGuid": "f47de1123889454d95593b215bf983b9"
+  },
+  {
+    "FXName": "MythicNonelvlAzata_AzataSong00_Enchantment_CasterCycle_FX",
+    "OldGuid": "12cd0990f0895a946916a2ea5067e92e",
+    "NewGuid": "bbf6d2a06be248629886e42c660775ac"
+  },
+  {
+    "FXName": "MythicNonelvlAzata_AzataSong00_Aburation_CasterCycle_FX",
+    "OldGuid": "0186cbcdd77cb9349936ff68017545fb",
+    "NewGuid": "c075795c15844be6851e87b7638af5d9"
+  },
+  {
+    "FXName": "Mythic1lvlAzata_SupersonicSpeed00_MissSnap_FX",
+    "OldGuid": "89b097012ac11d74db2a54aa5d28c150",
+    "NewGuid": "3cf9fa75067f45f88196a15e17bd0fcd"
+  },
+  {
+    "FXName": "CrystalDebuff00_Full_FX",
+    "OldGuid": "2712624db05f4a244bdec8a09e60cca8",
+    "NewGuid": "fa27cb278f9c4759b30f82282f39bff5"
+  },
+  {
+    "FXName": "CrystalDebuff00_Weak_FX",
+    "OldGuid": "1f0e97519dab6e244accba1952b42756",
+    "NewGuid": "9b02a6bf2eee401680a26d59a0782ad1"
+  },
+  {
+    "FXName": "CrystalDebuff00_Strong_FX",
+    "OldGuid": "f46576c952cafa14fb65ba6eca26c0d4",
+    "NewGuid": "4caf378aa9384241b86cab8d680e097f"
+  },
+  {
+    "FXName": "Negative00_DotHit_FX",
+    "OldGuid": "dfb8a15571626064198f255dbf4ae408",
+    "NewGuid": "3ccb041c259b4d14b177ef3d9bfe92c4"
+  },
+  {
+    "FXName": "Creature_UnholyNimbus00_FX",
+    "OldGuid": "ec14c8e821c460b42bb925a2320ddf0c",
+    "NewGuid": "30f28d92d7934dd69967cf7bc44f8157"
+  },
+  {
+    "FXName": "DirtyBuff00_FX",
+    "OldGuid": "32bd392409922734bbe9dedbb7e337b8",
+    "NewGuid": "9410643064a349e0a8f8ed9408363c2e"
+  },
+  {
+    "FXName": "CreatureDungeon_Negative00_FX",
+    "OldGuid": "71b7a32739205ee40bcf525df880d9a0",
+    "NewGuid": "5ebcba72b0e14167ba9099162877dedc"
+  },
+  {
+    "FXName": "MageArmor00_FX",
+    "OldGuid": "ed42270d900386a498acb4669f401187",
+    "NewGuid": "d4ab5d56e35442179f00cad370cf9161"
+  },
+  {
+    "FXName": "MandragoraSwarm00_Buff_Cycle_FX",
+    "OldGuid": "115c37f1325f5ed40972e4c0641edd49",
+    "NewGuid": "060b0cc456eb474f8ceb057c5883952b"
+  },
+  {
+    "FXName": "Creature_PurpleWormDissolve00_FX",
+    "OldGuid": "cfff89a839d188d4086492471cba5111",
+    "NewGuid": "83595f4ac9c644488780c882b3886971"
+  },
+  {
+    "FXName": "FX_Axiomite00_FX",
+    "OldGuid": "e49825e8af7a44029cf9b8ba03a4ca7e",
+    "NewGuid": "a8e044f3eecf4ffe92d7963f160b7063"
+  },
+  {
+    "FXName": "LanternKing_FireBuff00_FX",
+    "OldGuid": "b3b8fb97d9282a04aa44012bbf0e4b24",
+    "NewGuid": "280d064d85e749c49a1271bae0a01f4a"
+  },
+  {
+    "FXName": "Cold00_Hit_FX",
+    "OldGuid": "5346e1a10aa2d764d8d16154fdeb38b8",
+    "NewGuid": "07406346dc0345eba90cea46ee63fbcd"
+  },
+  {
+    "FXName": "PillarOfLife00_FX",
+    "OldGuid": "9afd131ea11eca548a5680bf5effcd4b",
+    "NewGuid": "eafe0fc391fe47ce8623f0a177f1f6aa"
+  },
+  {
+    "FXName": "Precast_Divine00_FX",
+    "OldGuid": "00ca55e6c8dc07142807e40da6e3b13f",
+    "NewGuid": "e748de45ec3843758e7d07ede76a0e28"
+  },
+  {
+    "FXName": "Precast_Arcane00_Ground_FX",
+    "OldGuid": "c2125d8129952d242ad59ca45e094b47",
+    "NewGuid": "7817945a2ecc468197b3b581600c146a"
+  },
+  {
+    "FXName": "Mythic5lvlAngel_HolyHymn00_Aoe_FX",
+    "OldGuid": "2291bcda908102e439d3e1ee55876855",
+    "NewGuid": "59524e0a16184935ba4c71bb234a789b"
+  },
+  {
+    "FXName": "Cutscene_PaladinFallShout_forAudio_FX",
+    "OldGuid": "1c37b29619db0a94b900e72e39cf1a83",
+    "NewGuid": "82dafcfc0f1742da93e6772ca2cb55d4"
+  },
+  {
+    "FXName": "CreatureDungeon_Enchantment00_FX",
+    "OldGuid": "2370ee24b03d4cd3b2eb346b7a1a18c0",
+    "NewGuid": "ea2fb3c5eea5431bb6468a8f40d3ca10"
+  },
+  {
+    "FXName": "Mythic10lvlLich_PryBeyond00_FX",
+    "OldGuid": "00435a448c9a43c498acdf4f0ff45263",
+    "NewGuid": "55cc308c22d54ca4826656e6fd4882fa"
+  },
+  {
+    "FXName": "Fire00_DotHit_FX",
+    "OldGuid": "4e9869eb0d6f45a0922f5618889de031",
+    "NewGuid": "2c3377de9e91473b8ab708c6bb4aa70f"
+  },
+  {
+    "FXName": "CreatureDungeon_Electro00_FX",
+    "OldGuid": "45b4d04c588b42f9ba1ca19dfa659f51",
+    "NewGuid": "c0200b32e92a40208f376f9f1805e024"
+  },
+  {
+    "FXName": "Fx_WoljifShadowBoss00_FX",
+    "OldGuid": "116b1033539367548921d49fec2f622d",
+    "NewGuid": "35a928b8d1c94a99a402b9714483a744"
+  },
+  {
+    "FXName": "Kinetic_ElementalOverflow_FireBlast00_FX",
+    "OldGuid": "72a72f9d18ec4790b024c78193a39bb5",
+    "NewGuid": "1b953c2897d941ae992580b160afba70"
+  },
+  {
+    "FXName": "CreatureDungeon_Acid00_FX",
+    "OldGuid": "43c53ea9928058349b8b657b6c66e096",
+    "NewGuid": "8be0b402e0ce464bb5367127945d2174"
+  },
+  {
+    "FXName": "CreatureDungeon_Fire00_FX",
+    "OldGuid": "77eb91f242757794683465a1d9b28950",
+    "NewGuid": "793dec2f21714a7eaaa121690c41f3f1"
+  },
+  {
+    "FXName": "CreatureDungeon_Cold00_FX",
+    "OldGuid": "ecc16b449928fdc43874f2d033a7dbce",
+    "NewGuid": "f95acc30306941afad3bb7ce1efc9a35"
+  },
+  {
+    "FXName": "CreatureDungeon_Poison00_FX",
+    "OldGuid": "41f565ee6baa69f468fb2f8295064486",
+    "NewGuid": "0268451cb1d64768b38ef2f898d76f17"
+  },
+  {
+    "FXName": "CreatureDungeon_Illusion00_FX",
+    "OldGuid": "1a14f6cfd33e4eefb731e798fe097872",
+    "NewGuid": "36e62cbdf4db4a708b4f34d3cfb422c4"
+  },
+  {
+    "FXName": "Shock00_WeaponBuff_FX",
+    "OldGuid": "3d9e4ec7766843db801cccba28df3ec1",
+    "NewGuid": "e882c22f4c3d4d75ad1d57491edd8b68"
+  },
+  {
+    "FXName": "GoodHope00_Aoe_FX",
+    "OldGuid": "7ca8e974c92d4bef8187362843a995d3",
+    "NewGuid": "45db236715a644c4b1812490bc0c6ea9"
+  },
+  {
+    "FXName": "Transformation00_FX",
+    "OldGuid": "cd295e928e6748fab22016b1c81558c9",
+    "NewGuid": "b946003af5bf43019c5df128037adcc3"
+  },
+  {
+    "FXName": "GelatinousCube_StinkingCloud_10Feet_Aoe_Cycle_FX",
+    "OldGuid": "d4f6727d711f414bbdd5d7a9f5de88cf",
+    "NewGuid": "3176f58ddf194887a9541663bbe46183"
+  },
+  {
+    "FXName": "DLC2_FrostWizardVampiricSpell00_BuffFirstStagePart_FX",
+    "OldGuid": "ed13c07826b24cb98547297e77f64598",
+    "NewGuid": "4d03a2b4a4be40dda549ff94e6c39e17"
+  },
+  {
+    "FXName": "DLC2_FrostWizardVampiricSpell00_BuffSecondStagePart_FX",
+    "OldGuid": "6a8d95e185044adc86a8a9c2b0cb63d9",
+    "NewGuid": "3ca351830d494fefa63ed8d364085981"
+  },
+  {
+    "FXName": "DLC2_FrostWizardVampiricSpell00_BuffAllStagePart_FX",
+    "OldGuid": "7f7b31757a2f431ab3715901321a077b",
+    "NewGuid": "cdf13328b7dd4c0d92daf15337bfb93d"
+  },
+  {
+    "FXName": "Cutscene_AeonZoneOfPredetermination00_Cycle_FX",
+    "OldGuid": "ac10126afb1e4769b291c8f122d54881",
+    "NewGuid": "d04d8f349c3348019e07bb8c697027a2"
+  },
+  {
+    "FXName": "Creature_ProjectionAxis_00_FX",
+    "OldGuid": "35a9fea61827455bb24f54a2a1a5b295",
+    "NewGuid": "bb8d6faf035e4a738b4b99f3ca827294"
+  },
+  {
+    "FXName": "MarkOfChaos00_FX",
+    "OldGuid": "1c47a0e447db4449bb5cbfc6e9c47082",
+    "NewGuid": "a5f7d1952c2749618ec644ff2a8dafb8"
+  },
+  {
+    "FXName": "MarkOfChaos00 Variant_FX",
+    "OldGuid": "cd8f6b7254f14c15b1198bfd65963a5f",
+    "NewGuid": "a47b4d4315954a6ca7b0ba81aa613b43"
+  },
+  {
+    "FXName": "CreatureDust00_Disappear_FX",
+    "OldGuid": "c32ae9275c494be89c99e29424ee8988",
+    "NewGuid": "85e33ea23fb843708b9233861451ecc9"
+  },
+  {
+    "FXName": "SpiderSwarm_FX",
+    "OldGuid": "2fea5f88e47e42b1a0037367dcb20470",
+    "NewGuid": "15d80b892d01461c86f9cbe50a68b304"
+  }
+]

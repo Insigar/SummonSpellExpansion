@@ -1,0 +1,31 @@
+{
+  "SpellName": "Summon_CR23_Wintersun_WhiteDragon",
+  "SpellGuid": "9cd26c88a2b245ef9de95a04db683058",
+  "DisplayName": "SummonWintersun_WhiteDragon.Name",
+  "Description": "SummonDragon.Description",
+  "Icon": "f3ae663939a34e5b8a4dc51062df78f6",
+  "SpawnUnit": "f3ae663939a34e5b8a4dc51062df78f6",
+  "SummonPool": "",
+  "UnitFX": [],
+  "DiceValue": {
+    "DiceType": "Zero",
+    "DiceCountValue": 0,
+    "BonusValue": {
+      "ValueType": "Simple",
+      "Value": 1
+    }
+  },
+  "DurationValue": {
+    "Rate": "Minutes",
+    "DiceType": "Zero",
+    "DiceCountValue": 0,
+    "BonusValue": {
+      "ValueType": "Simple",
+      "Value": 1
+    }
+  },
+  "Parent": "",
+  "AbilityVariants": [],
+  "SpellLevel": 1,
+  "SpellSchool": "Conjuration"
+}

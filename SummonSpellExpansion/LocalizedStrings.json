@@ -1,0 +1,105 @@
+﻿[
+  {
+    "Key": "CityGuardSpirit.Name",
+    "ProcessTemplates": false,
+    "enGB": "Spirit Guard"
+  },
+  {
+    "Key": "SummonCityGuardSpirit.Name",
+    "ProcessTemplates": false,
+    "enGB": "Summon Spirit Guard Squad"
+  },
+  {
+    "Key": "SummonCityGuardSpirit_1.Name",
+    "ProcessTemplates": false,
+    "enGB": "Summon Spirit Guard Squad I"
+  },
+  {
+    "Key": "SummonCityGuardSpirit_2.Name",
+    "ProcessTemplates": false,
+    "enGB": "Summon Spirit Guard Squad II"
+  },
+  {
+    "Key": "SummonCityGuardSpirit_3.Name",
+    "ProcessTemplates": false,
+    "enGB": "Summon Spirit Guard Squad III"
+  },
+  {
+    "Key": "SummonCityGuardSpirit_4.Name",
+    "ProcessTemplates": false,
+    "enGB": "Summon Spirit Guard Squad IV"
+  },
+  {
+    "Key": "CityGuardSpirit.Description",
+    "enGB": "Summons a Spirit Guard Squad consisting of {g|Encyclopedia:Dice}1d3{/g} City Guards armed with sword, shield and a breastplate to aid you in combat. They appear where you designate and act according to their {g|Encyclopedia:Initiative}initiative{/g} {g|Encyclopedia:Check}check{/g} results. They {g|Encyclopedia:Attack}attack{/g} your opponents to the best of their ability."
+  },
+  {
+    "Key": "DurationRate.Minutes",
+    "ProcessTemplates": false,
+    "enGB": "1 minute/level"
+  },
+  {
+    "Key": "DurationRate.Rounds",
+    "ProcessTemplates": false,
+    "enGB": "1 round/level"
+  },
+  {
+    "Key": "SavingThrow.None",
+    "ProcessTemplates": false,
+    "enGB": "None"
+  },
+  {
+    "Key": "Devarra_BlackDragon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Red Cave Dragon"
+  },
+  {
+    "Key": "Halaseliax_GoldDragon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Legendaray Gold Dragon"
+  },
+  {
+    "Key": "Wintersun_WhiteDragon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Wintersun Dragon"
+  },
+  {
+    "Key": "Hokugaul_WhiteDragon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Hokugaul White Dragon"
+  },
+  {
+    "Key": "Latimas_BlackDragon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Black Latimas Dragon"
+  },
+  {
+    "Key": "SummonDevarra_BlackDragon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Summon Red Cave Dragon"
+  },
+  {
+    "Key": "SummonHalaseliax_GoldDragon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Summon Legendaray Gold Dragon"
+  },
+  {
+    "Key": "SummonWintersun_WhiteDragon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Summon Wintersun Dragon"
+  },
+  {
+    "Key": "SummonHokugaul_WhiteDragon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Summon Hokugaul White Dragon"
+  },
+  {
+    "Key": "SummonLatimas_BlackDragon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Summon Black Latimas Dragon"
+  },
+  {
+    "Key": "SummonDragon.Description",
+    "enGB": "Summons a mighty dragon to your aid. They appear where you designate and act according to their {g|Encyclopedia:Initiative}initiative{/g} {g|Encyclopedia:Check}check{/g} results. They {g|Encyclopedia:Attack}attack{/g} your opponents to the best of their ability."
+  }
+]

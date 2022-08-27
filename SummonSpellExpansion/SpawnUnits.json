@@ -1,0 +1,38 @@
+[
+  {
+    "UnitName": "CR4_Militia_Paladin_Human_Male_1",
+    "LocalizedNameKey": "CityGuardSpirit.Name",
+    "NewGuid": "96c5dc0b4f014aefa916f23ed3c1c461",
+    "OldGuid": "2754c538247045839aed5f346f867e33"
+  },
+  {
+    "UnitName": "CR21_Devarra_BlackDragon",
+    "LocalizedNameKey": "Devarra_BlackDragon.Name",
+    "NewGuid": "62e5d8acf2dd408b9cbd27d7083c92b0",
+    "OldGuid": "c540d81c08822c14da75761493427e4c"
+  },
+  {
+    "UnitName": "CR22_Halaseliax_GoldDragon",
+    "LocalizedNameKey": "Halaseliax_GoldDragon.Name",
+    "NewGuid": "2fb69d50bc6746348034cfdb92d84f6b",
+    "OldGuid": "7d0171c0347cff1488a81c88734bb32e"
+  },
+  {
+    "UnitName": "CR23_Wintersun_WhiteDragon",
+    "LocalizedNameKey": "Wintersun_WhiteDragon.Name",
+    "NewGuid": "f3ae663939a34e5b8a4dc51062df78f6",
+    "OldGuid": "68fc75dad58dc8a499d6c3fb11ed5915"
+  },
+  {
+    "UnitName": "CR27_Hokugaul_WhiteDragon",
+    "LocalizedNameKey": "Hokugaul_WhiteDragon.Name",
+    "NewGuid": "2f76aadc11a04e07a1ca61763f23bffd",
+    "OldGuid": "0e048b23aedfb144abc5ff9127b16560"
+  },
+  {
+    "UnitName": "CR27_Latimas_BlackDragon",
+    "LocalizedNameKey": "Latimas_BlackDragon.Name",
+    "NewGuid": "cbacca49ab2a46519f1a15e58b266069",
+    "OldGuid": "36178c58519c5584b8cdab62b2be3bfa"
+  }
+]

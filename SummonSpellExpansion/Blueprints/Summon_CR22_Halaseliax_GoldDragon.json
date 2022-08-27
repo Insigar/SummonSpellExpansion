@@ -1,0 +1,31 @@
+{
+  "SpellName": "Summon_CR22_Halaseliax_GoldDragon",
+  "SpellGuid": "da613893f9dc4c2d99009b72d85704eb",
+  "DisplayName": "SummonHalaseliax_GoldDragon.Name",
+  "Description": "SummonDragon.Description",
+  "Icon": "2fb69d50bc6746348034cfdb92d84f6b",
+  "SpawnUnit": "2fb69d50bc6746348034cfdb92d84f6b",
+  "SummonPool": "",
+  "UnitFX": [],
+  "DiceValue": {
+    "DiceType": "Zero",
+    "DiceCountValue": 0,
+    "BonusValue": {
+      "ValueType": "Simple",
+      "Value": 1
+    }
+  },
+  "DurationValue": {
+    "Rate": "Minutes",
+    "DiceType": "Zero",
+    "DiceCountValue": 0,
+    "BonusValue": {
+      "ValueType": "Simple",
+      "Value": 1
+    }
+  },
+  "Parent": "",
+  "AbilityVariants": [],
+  "SpellLevel": 1,
+  "SpellSchool": "Conjuration"
+}
