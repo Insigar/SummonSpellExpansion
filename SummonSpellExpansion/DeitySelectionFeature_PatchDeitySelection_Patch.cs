@@ -12,8 +12,6 @@ namespace SummonSpellExpansion
 		static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instructions)
 		{
 			List<CodeInstruction> newInstructions = new List<CodeInstruction>(instructions);
-			// 783 0BFC
-			// 830 0CCF
 			for (int i = 917; i <= 964; i++)
 			{
 				newInstructions[i].opcode = OpCodes.Nop;

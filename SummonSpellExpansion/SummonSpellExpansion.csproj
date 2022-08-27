@@ -47,7 +47,6 @@
   </Target>
   <ItemGroup>
     <Compile Include="BlueprintsCache_Init_Patch.cs" />
-    <Compile Include="DeitySelectionFeature_PatchDeitySelection_Patch.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SerializableClasses\ContextBonusValue.cs" />
@@ -70,10 +69,6 @@
     </Reference>
     <Reference Include="BlueprintCore, Version=2.2.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\WW-Blueprint-Core.2.2.1\lib\net472\BlueprintCore.dll</HintPath>
-    </Reference>
-    <Reference Include="ExpandedContent">
-      <HintPath>lib\ExpandedContent_public.dll</HintPath>
-      <Private>False</Private>
     </Reference>
     <Reference Include="Microsoft.Build.Framework" />
     <Reference Include="Microsoft.Build.Utilities.v4.0" />
