@@ -41,7 +41,6 @@
   <Target Name="Publicise" BeforeTargets="BeforeBuild">
     <ItemGroup>
       <PubliciseInputAssemblies Include="$(WrathPath)\Wrath_Data\Managed\Assembly-CSharp.dll" />
-      <PubliciseInputAssemblies Include="$(WrathPath)\Mods\ExpandedContent\ExpandedContent.dll" />
     </ItemGroup>
     <Publicise InputAssemblies="@(PubliciseInputAssemblies)" OutputPath="lib/" PubliciseCompilerGenerated="true" />
   </Target>
